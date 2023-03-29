@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+    <LinearLayout
+        android:id="@+id/topLinear"
+        style="@style/W_m_H_w"
+        android:layout_below="@id/vsHeader"
+        
+        android:gravity="center"
+        android:orientation="vertical" >
+
+ <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+                        <RelativeLayout style="@style/W_m_H_w" >
+                
+                <TextView
+                   android:id="@+id/nameText"
+
+                    android:layout_toLeftOf="@id/textView2"
+                    android:layout_margin="5dp"
+                    android:gravity="right"
+                    style="@style/labelStyle"
+                    android:text="Mohammad Sheikh"
+
+                    />
+
+                <TextView
+                    android:id="@+id/textView2"
+                   android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:gravity="right"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:text="@string/title_name" 
+                    />
+
+            </RelativeLayout>        
+            </LinearLayout>
+
+            
+        <ImageView
+                style="@style/W_m_H_w"
+                android:background="@drawable/seperate_line" />
+        
+
+                     
+
+       <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+                        <RelativeLayout style="@style/W_m_H_w" >
+                
+                <TextView
+                   android:id="@+id/userNameText"
+                    style="@style/labelStyle"
+                    android:layout_toLeftOf="@id/textView3"
+                    android:layout_margin="5dp"
+                    android:text="Mohammad"
+                    android:gravity="right"
+                    />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:gravity="right"
+                    android:layout_marginRight="15dp"
+                    style="@style/labelStyle"
+
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/title_usename"
+                    />
+
+            </RelativeLayout>        
+            </LinearLayout>
+        
+          <ImageView
+                style="@style/W_m_H_w"
+                android:background="@drawable/seperate_line" />
+          
+           <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+                        <RelativeLayout style="@style/W_m_H_w" >
+                
+                <TextView
+                   android:id="@+id/fileNoText"
+                    style="@style/labelStyle"
+                    android:layout_toLeftOf="@id/textView4"
+                    android:layout_margin="5dp"
+                    android:text="34324364"
+                    />
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:gravity="right"
+                    android:layout_marginRight="15dp"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/file_no" 
+                    />
+
+            </RelativeLayout>        
+            </LinearLayout>
+
+            
+        
+          <ImageView
+                style="@style/W_m_H_w"
+                android:background="@drawable/seperate_line" />
+          
+          
+            <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_margin="10dp"
+            android:orientation="horizontal" >
+
+                        <RelativeLayout style="@style/W_m_H_w" >
+                
+                <TextView
+                   android:id="@+id/civilIdText"
+                    style="@style/labelStyle"
+                    android:layout_toLeftOf="@id/textView5"
+                    android:layout_margin="5dp"
+                    android:text="gkyg34324364"
+                    />
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_height="wrap_content"
+                    android:layout_width="100dp"
+                    android:gravity="right"
+                    android:layout_marginRight="15dp"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/civil_id" 
+                    />
+
+            </RelativeLayout>        
+            </LinearLayout>
+
+            
+        
+          <ImageView
+                style="@style/W_m_H_w"
+                android:background="@drawable/seperate_line" />
+          
+          
+          
+          
+          
+       
+
+    </LinearLayout>
+
+</RelativeLayout>

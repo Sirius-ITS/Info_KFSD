@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-ar\\fragment_vacations_balance.xml",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_vacations_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-ar\\fragment_monthly_report_inquiry.xml",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_monthly_report_inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-ar\\fragment_sick_vacations_balance.xml",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_sick_vacations_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout-ar\\fragment_submenu.xml",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_submenu.xml"
+    }
+]

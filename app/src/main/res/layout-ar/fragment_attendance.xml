@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+    <LinearLayout
+        android:id="@+id/topLinear"
+        style="@style/W_m_H_w"
+        android:layout_below="@id/vsHeader"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/titleText"
+                style="@style/titleStyle"
+
+                android:gravity="center"
+                android:text="This is Title"
+                />
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/from_date" />
+
+                <TextView
+                    android:id="@+id/startDateText"
+                    style="@style/W_w_H_w"
+                    android:layout_marginRight="40dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toLeftOf="@id/textView1"
+                    android:background="@drawable/field"
+                    android:gravity="center"
+                   />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textViewDate"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/to_date"
+                    />
+
+                <TextView
+                    android:id="@+id/endDateText"
+                    style="@style/W_w_H_w"
+                    android:layout_marginRight="38dp"
+                    android:layout_toLeftOf="@id/textViewDate"
+                    android:background="@drawable/field"
+                    android:gravity="center"
+                    android:padding="5dp" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:visibility="visible" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <RelativeLayout
+                    android:layout_width="30dp"
+                    android:layout_height="40dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="47dp"
+                    android:layout_toLeftOf="@id/textView3"
+                    android:background="@color/ddl_bg"
+                    >
+
+
+                    <Spinner
+                        android:id="@+id/editText1"
+                        style="@style/W_m_H_m"
+                        android:background="@null"
+                        android:spinnerMode="dropdown" />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="5dp"
+                        android:src="@drawable/downarrow" />
+
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/textView3"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/employee"
+                    />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <RelativeLayout style="@style/W_m_H_w"  android:layout_marginTop="5dp">
+
+            <TextView
+
+                android:id="@+id/textView4"
+                style="@style/labelStyle"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:text="@string/file_no" />
+
+            <TextView
+                 android:id="@+id/empText"
+                style="@style/W_w_H_w"
+                android:layout_toLeftOf="@id/textView4"
+                android:background="@drawable/field"
+                android:gravity="center"
+                android:layout_marginRight="34dp"
+
+                />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/main1Linear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/submitButton"
+        android:orientation="vertical"
+        android:visibility="invisible"
+        android:layout_marginTop="10dp">
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/TV_Blue" />
+
+        <LinearLayout
+            android:id="@+id/linear1q"
+            style="@style/W_m_H_w"
+            android:orientation="horizontal" >
+
+            <TableLayout
+                android:layout_width="280dp"
+                android:layout_height="wrap_content" >
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="38dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:textColor="@color/txt_clr"
+                        android:textStyle="bold"
+                        android:text="@string/night_shift" />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="38dp"
+                        android:background="@color/TV_Blue" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="@color/txt_clr"
+                        android:text="@string/day_shift" />
+                </TableRow>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/TV_Blue" />
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:stretchColumns="1" >
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:textStyle="bold"
+                        android:textColor="@color/txt_clr"
+                        android:text="@string/out_time"
+                        />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="30dp"
+                        android:background="@color/TV_Blue" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/in_time"
+                        android:textStyle="bold"
+                        android:textColor="@color/txt_clr"
+                         />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="30dp"
+                        android:background="@color/TV_Blue" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/out_time"
+                        android:textStyle="bold"
+                        android:textColor="@color/txt_clr"
+                        />
+
+                    <View
+                        android:layout_width="1dp"
+                        android:layout_height="30dp"
+                        android:background="@color/TV_Blue" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="@string/in_time"
+                        android:textStyle="bold"
+                        android:textColor="@color/txt_clr"
+                        />
+                </TableRow>
+            </TableLayout>
+
+            <View
+                android:layout_width="2dp"
+                android:layout_height="69dp"
+                android:background="@color/TV_Blue" />
+
+            <TextView
+                android:id="@+id/loginTitle"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:padding="10dp"
+                android:textStyle="bold"
+                android:text="@string/date"
+                android:textColor="@color/txt_clr"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/TV_Blue" />
+
+    </LinearLayout>
+
+    <ScrollView
+        style="@style/W_m_H_m"
+        android:layout_below="@id/submitButton"
+        android:layout_marginTop="78dp"
+        >
+
+        <LinearLayout
+            android:id="@+id/mainLinear"
+            style="@style/W_m_H_m"
+            android:orientation="vertical"
+            android:visibility="visible" >
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/submitButton"
+        style="@style/W_w_H_w"
+        android:background="@drawable/btn_common"
+        android:text="@string/show"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/topLinear"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

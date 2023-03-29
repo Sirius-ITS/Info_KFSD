@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+
+ <!--======================================    -->
+    <TextView
+        android:id="@+id/trxNoTxt"
+        style="@style/labelStyle"
+        android:text="Please check with KFSD for the following errors:"
+        android:paddingBottom="5dp"
+        android:layout_marginTop="70dp"
+        android:layout_marginLeft="25dp"
+        android:textColor="@color/TV_Red"
+        />
+
+    <TextView
+        android:id="@+id/errorTxtView"
+        style="@style/W_m_H_w"
+        android:layout_below="@+id/trxNoTxt"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="10dp"
+        android:gravity="left"
+        android:padding="5dp"
+        android:textColor="@color/txt_clr"
+        android:background="@drawable/field" />
+
+    <!--======================================    -->
+
+
+
+</RelativeLayout>

@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,281",
+                        "endColumns": "86,57",
+                        "endOffsets": "240,334"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,135",
+                        "endColumns": "79,50",
+                        "endOffsets": "130,181"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\mostafaa\\.gradle\\caches\\transforms-2\\files-2.1\\103c2b23634904381bb3d50ae6eb8f4f\\jetified-play-services-appinvite-8.4.0\\res\\values-v11\\appinvite_styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endColumns": "117",
+                        "endOffsets": "214"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "186",
+                        "endColumns": "117",
+                        "endOffsets": "299"
+                    }
+                }
+            ]
+        }
+    ]
+}

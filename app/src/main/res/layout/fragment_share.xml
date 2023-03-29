@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:layout_width="wrap_content"
+    android:background="@drawable/main_background"
+    android:orientation="vertical" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+    <LinearLayout
+        style="@style/W_m_H_m"
+        android:layout_below="@+id/vsHeader"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/youTubeLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+            <ImageView
+                android:id="@+id/youTubeButton"
+                style="@style/W_w_H_w"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/youtube" />
+
+            <TextView
+                android:id="@+id/TV_1"
+                style="@style/W_w_H_w"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="18dp"
+                android:layout_toRightOf="@id/youTubeButton"
+                android:text="@string/youtube_kfsd"
+                android:textColor="@color/TV_Blue"
+                android:textSize="22sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/seperate_line" />
+
+        <RelativeLayout
+            android:id="@+id/twitterLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <ImageView
+                android:id="@+id/twitterButton"
+                style="@style/W_w_H_w"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/twitter" />
+
+            <TextView
+                android:id="@+id/TV_2"
+                style="@style/W_w_H_w"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="20dp"
+                android:layout_toRightOf="@id/twitterButton"
+                android:text="@string/twitter_kfsd"
+                android:textColor="@color/TV_Blue"
+                android:textSize="22sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/seperate_line" />
+
+        <RelativeLayout
+            android:id="@+id/instagramLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" >
+
+            <ImageView
+                android:id="@+id/instagramButton"
+                style="@style/W_w_H_w"
+                android:layout_gravity="center"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/instagram" />
+
+            <TextView
+                android:id="@+id/TV_3"
+                style="@style/W_w_H_w"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="18dp"
+                android:layout_toRightOf="@id/instagramButton"
+                android:text="@string/officialkfsd"
+                android:textColor="@color/TV_Blue"
+                android:textSize="22sp" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/seperate_line" />
+    </LinearLayout>
+
+</RelativeLayout>

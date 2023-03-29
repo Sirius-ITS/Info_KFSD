@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background"
+    android:orientation="vertical" >
+
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_title"
+       />
+
+
+
+    <RelativeLayout
+        style="@style/W_m_H_m"
+        android:gravity="center"
+        >
+
+        <ImageView
+            android:id="@+id/imageView1"
+            style="@style/W_w_H_w"
+            android:background="@drawable/home_bt1"
+            android:layout_marginLeft="10dp"
+
+            />
+
+        <LinearLayout
+            android:id="@+id/relative1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_below="@+id/imageView1"
+            android:orientation="vertical"
+            android:visibility="gone" >
+
+
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:visibility="visible"
+                android:gravity="right"
+                android:text="@string/clearance"
+                android:textStyle="bold"
+                android:textColor="@color/txt_clr"
+                android:textSize="18sp"
+                android:padding="5dp" />
+
+            <ImageView
+                android:id="@+id/imageLine"
+                android:layout_width="match_parent"
+                android:layout_height="0.2dp"
+                android:layout_marginRight="10dp"
+                android:visibility="visible"
+                android:background="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:gravity="right"
+                android:visibility="visible"
+                android:text="@string/sector"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/txt_clr"
+                android:padding="5dp"/>
+
+            <ImageView
+                android:id="@+id/imageLine2"
+                android:layout_width="match_parent"
+                android:layout_height="0.2dp"
+                android:layout_marginRight="10dp"
+                android:visibility="visible"
+                android:background="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:gravity="right"
+                android:visibility="visible"
+                android:text="@string/adoption_PAI"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/txt_clr"
+                android:padding="5dp"/>
+
+            <ImageView
+                android:id="@+id/imageLine3"
+                android:layout_width="match_parent"
+                android:layout_height="0.2dp"
+                android:layout_marginRight="10dp"
+                android:visibility="visible"
+                android:background="@android:color/black"/>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="5dp"
+                android:gravity="right"
+                android:visibility="visible"
+                android:text="@string/adoption_MOCI"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/txt_clr"
+                android:padding="5dp"/>
+
+        </LinearLayout>
+
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="85dp"
+            android:layout_height="95dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop="100dp"
+            android:layout_marginLeft="110dp"
+            android:background="@drawable/logo_login"
+
+
+            />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            style="@style/W_w_H_w"
+            android:layout_alignStart="@+id/imageView1"
+            android:layout_alignLeft="@+id/imageView1"
+            android:layout_alignTop="@+id/imageView3"
+            android:layout_marginTop="70dp"
+            android:background="@drawable/home_bt2" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

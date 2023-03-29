@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_attendance.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_home.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_leave_request.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_map.xml" value="0.4024640657084189" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_menu.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_monthly_report_inquiry.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_sick_vacations_balance.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_submenu.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_vacations.xml" value="0.15" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout-ar/fragment_vacations_balance.xml" value="0.33" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/activity_group.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/activity_tabbar.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_attendance.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_home.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_menu.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_monthly_report_inquiry.xml" value="0.2" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_permission_request.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_sick_vacations_balance.xml" value="0.33" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_submenu.xml" value="0.22" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_vacations.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/fragment_vacations_balance.xml" value="0.25" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/layout_vacation.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/month_year_picker_dialog.xml" value="0.1828125" />
+        <entry key="..\:/Users/mostafaa/Desktop/AndroidStudioProjects/kfsd/app/src/main/res/layout/tab_indicator.xml" value="0.1828125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

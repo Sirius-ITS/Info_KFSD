@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="@drawable/advertisement_bg" >
+    
+	<TextView 
+	    android:id="@+id/TV_1"
+	    style="@style/W_w_H_w"
+	    android:text="@string/Cancel"/>
+	
+	<TextView 
+	    android:id="@+id/TV_2"
+	    style="@style/W_w_H_w"
+	    android:layout_marginLeft="20dp"
+	    android:text="@string/Cancel"/>
+	    
+</LinearLayout>

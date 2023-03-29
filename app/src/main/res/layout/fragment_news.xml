@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background">
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_title" />
+
+    <LinearLayout
+        style="@style/W_m_H_m"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        android:layout_below="@+id/vsHeader">
+
+        <ListView
+            android:id="@+id/listDisplay"
+
+            style="@style/W_m_H_m"
+            android:layout_width="383dp"
+            android:background="@drawable/emp_bg"
+            android:divider="@drawable/seperate_line"
+            android:dividerHeight="0.2dp" />
+
+       
+    </LinearLayout>
+
+</RelativeLayout>

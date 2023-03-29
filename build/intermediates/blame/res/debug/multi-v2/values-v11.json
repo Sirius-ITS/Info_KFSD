@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Downloads\\Osama\\KFFApp-ali (1)\\KFSD\\kfsd\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\NewHorizons\\.gradle\\caches\\transforms-2\\files-2.1\\4d50381406547dd2a5a1dc638fa9d160\\appcompat-v7-23.1.1\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "4,10,16,22,28,34,42,43,44,49,56,58,62,63,64,115,169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "239,658,1083,1511,1937,2364,2968,3057,3158,3566,4165,4272,4580,4651,4734,8442,12469",
+                        "endLines": "9,15,21,27,33,39,42,43,48,53,57,59,62,63,114,166,169",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "653,1078,1506,1932,2359,2784,3052,3153,3561,3981,4267,4396,4646,4729,8437,12285,12555"
+                    },
+                    "to": {
+                        "startLines": "4,10,16,22,28,34,40,41,42,47,52,54,56,57,58,109,161",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "186,605,1030,1458,1884,2311,2736,2825,2926,3334,3754,3861,3990,4061,4144,7852,11700",
+                        "endLines": "9,15,21,27,33,39,40,41,46,51,53,55,56,57,108,160,161",
+                        "endColumns": "12,12,12,12,12,12,88,100,12,12,12,12,70,82,12,12,90",
+                        "endOffsets": "600,1025,1453,1879,2306,2731,2820,2921,3329,3749,3856,3985,4056,4139,7847,11695,11786"
+                    }
+                },
+                {
+                    "source": "D:\\Downloads\\Osama\\KFFApp-ali (1)\\KFSD\\kfsd\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,281",
+                        "endColumns": "86,57",
+                        "endOffsets": "240,334"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,135",
+                        "endColumns": "79,50",
+                        "endOffsets": "130,181"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NewHorizons\\.gradle\\caches\\transforms-2\\files-2.1\\59d6235d266221f30bb8023accf66d33\\play-services-appinvite-8.4.0\\res\\values-v11\\appinvite_styles.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "101",
+                        "endColumns": "117",
+                        "endOffsets": "214"
+                    },
+                    "to": {
+                        "startLines": "162",
+                        "startColumns": "4",
+                        "startOffsets": "11791",
+                        "endColumns": "117",
+                        "endOffsets": "11904"
+                    }
+                }
+            ]
+        }
+    ]
+}

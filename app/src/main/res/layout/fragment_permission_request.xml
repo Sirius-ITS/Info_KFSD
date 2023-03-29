@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+
+        <TextView
+            android:id="@+id/titleText"
+            style="@style/titleStyle"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:layout_below="@+id/vsHeader"
+            android:text="This is Title" />
+
+ <!--======================================    -->
+    <TextView
+        android:id="@+id/trxNoTxt"
+        style="@style/labelStyle"
+        android:text="Permission\nType"
+        android:layout_below="@+id/titleText"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="25dp"
+        />
+
+    <RelativeLayout
+        style="@style/spinnerStyle"
+        android:padding="2dp"
+        android:layout_alignRight="@+id/endDateText"
+        android:layout_alignLeft="@+id/endDateText"
+
+        android:layout_alignBottom="@+id/trxNoTxt">
+
+
+        <Spinner
+            android:id="@+id/permTypeSpinner"
+            style="@style/W_m_H_m"
+            android:background="@null"
+            android:spinnerMode="dropdown"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/downarrow" />
+    </RelativeLayout>
+
+    <!--======================================    -->
+
+            <TextView
+                android:id="@+id/rprsntCivilId"
+                style="@style/labelStyle"
+                android:gravity="center"
+                android:text="@string/date"
+                android:layout_below="@+id/trxNoTxt"
+                android:layout_alignLeft="@+id/trxNoTxt"
+                android:layout_marginTop="20dp"
+                />
+
+            <TextView
+                android:id="@+id/endDateText"
+                style="@style/W_w_H_w"
+                android:layout_toRightOf="@+id/trxNoTxt"
+                android:layout_marginLeft="30dp"
+                android:gravity="center"
+
+                android:layout_alignBaseline="@+id/rprsntCivilId"
+                android:textColor="@color/txt_clr"
+                android:background="@drawable/field" />
+
+    <!--======================================    -->
+
+        <Button
+            android:id="@+id/submitButton"
+            style="@style/W_w_H_w"
+            android:layout_marginTop="40dp"
+            android:layout_below="@+id/rprsntCivilId"
+            android:background="@drawable/btn_common"
+            android:text="@string/submit"
+            android:layout_centerHorizontal="true"
+            android:textColor="#ffffff" />
+
+
+
+</RelativeLayout>

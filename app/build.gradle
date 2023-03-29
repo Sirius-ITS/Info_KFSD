@@ -1,0 +1,75 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.jakewharton.butterknife'
+
+android {
+    compileSdkVersion 33
+    defaultConfig {
+        applicationId "com.KuwaitKFF"
+        minSdk 19
+        targetSdkVersion 33
+        versionCode 14
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            crunchPngs false
+            lintOptions {
+                checkReleaseBuilds false
+                abortOnError false
+            }
+            debuggable false
+            minifyEnabled false
+            shrinkResources false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            crunchPngs false
+            lintOptions {
+                checkReleaseBuilds false
+                abortOnError false
+            }
+//            debuggable false
+            minifyEnabled false
+            shrinkResources false
+            debuggable true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    dataBinding {
+        enabled = true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+    signingConfigs {
+        release {
+            storeFile file("myapp.keystore")
+            storePassword 'KEYSTORE_PASSWORD'
+            keyAlias 'tawsekmisr'
+            keyPassword 'KEYSTORE_PASSWORD'
+        }
+    }
+
+    flavorDimensions "version"
+    productFlavors {
+    }
+
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.roomorama:caldroid:3.0.1'
+//    implementation project(':libraryUniversalImageLoader')
+    implementation 'com.squareup.picasso:picasso:2.5.0'
+    implementation 'com.google.android.gms:play-services-maps:16.1.0'
+    implementation 'androidx.appcompat:appcompat:1.0.2'
+    implementation 'com.google.code.gson:gson:2.8.9'
+    implementation 'com.google.android.gms:play-services-identity:18.0.1'
+    implementation 'com.jakewharton:butterknife:10.2.3'
+    annotationProcessor 'com.jakewharton:butterknife-compiler:10.2.3'
+    implementation 'com.loopj.android:android-async-http:1.4.9'
+}

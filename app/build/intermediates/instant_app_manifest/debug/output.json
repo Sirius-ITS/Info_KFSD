@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.KuwaitKFF",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "INSTANT_APP_MANIFEST"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 14,
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "com.KuwaitKFF",
+        "split": "",
+        "minSdkVersion": "18"
+      }
+    }
+  ]
+}

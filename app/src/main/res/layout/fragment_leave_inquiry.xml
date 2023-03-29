@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+
+    <TextView
+        android:id="@+id/titleText"
+        style="@style/titleStyle"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:layout_below="@+id/vsHeader"
+        android:text="This is Title" />
+
+    <!--======================================    -->
+    <TextView
+        android:id="@+id/trxNoTxt"
+        style="@style/labelStyle"
+        android:text="Leave Type"
+        android:layout_below="@+id/titleText"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="25dp"
+        />
+
+    <RelativeLayout
+        style="@style/spinnerStyle"
+        android:padding="2dp"
+        android:layout_alignRight="@+id/startDateText"
+        android:layout_alignLeft="@+id/startDateText"
+
+        android:layout_alignBottom="@+id/trxNoTxt">
+
+
+        <Spinner
+            android:id="@+id/leaveTypeSpinner"
+            style="@style/W_m_H_m"
+            android:background="@null"
+            android:spinnerMode="dropdown"
+            android:gravity="center"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/downarrow" />
+    </RelativeLayout>
+
+    <!--======================================    -->
+
+    <TextView
+        android:id="@+id/rprsntCivilId"
+        style="@style/labelStyle"
+        android:gravity="center"
+        android:text="@string/start_date"
+        android:layout_below="@+id/trxNoTxt"
+        android:layout_alignLeft="@+id/trxNoTxt"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/startDateText"
+        style="@style/W_w_H_w"
+        android:layout_toRightOf="@+id/trxNoTxt"
+        android:layout_marginLeft="30dp"
+        android:gravity="center"
+
+        android:layout_alignBaseline="@+id/rprsntCivilId"
+        android:textColor="@color/txt_clr"
+        android:background="@drawable/field" />
+    <!--======================================    -->
+
+    <TextView
+        android:id="@+id/rprsntName"
+        style="@style/labelStyle"
+        android:gravity="center"
+        android:text="@string/end_date"
+        android:layout_below="@+id/rprsntCivilId"
+        android:layout_alignLeft="@+id/trxNoTxt"
+        android:layout_marginTop="20dp"
+        />
+
+    <TextView
+        android:id="@+id/endDateText"
+        style="@style/W_w_H_w"
+        android:layout_toRightOf="@+id/trxNoTxt"
+        android:layout_marginLeft="30dp"
+        android:gravity="center"
+
+        android:layout_alignBaseline="@+id/rprsntName"
+        android:textColor="@color/txt_clr"
+        android:background="@drawable/field" />
+
+    <!--======================================    -->
+
+    <Button
+        android:id="@+id/submitButton"
+        style="@style/W_w_H_w"
+        android:layout_marginTop="40dp"
+        android:layout_below="@+id/rprsntName"
+        android:background="@drawable/btn_common"
+        android:text="@string/show"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff" />
+
+
+    <ViewFlipper
+        android:id="@+id/mainFlipper"
+        style="@style/W_m_H_w"
+        android:visibility="invisible"
+        android:layout_below="@id/submitButton"
+        android:layout_marginTop="10dp"
+        >
+
+    </ViewFlipper>
+
+
+    <TextView
+        android:id="@+id/currentPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/mainFlipper"
+        android:layout_marginTop="10dp"
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        style="@style/W_m_H_m"
+        android:background="@drawable/main_background">
+
+        <ViewStub
+            android:id="@+id/vsHeader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inflatedId="@+id/vsHeader"
+            android:layout="@layout/header_activity_group" />
+
+        <LinearLayout
+            android:id="@+id/topLinear"
+            style="@style/W_m_H_w"
+            android:layout_below="@id/vsHeader"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/W_m_H_w"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/titleText"
+                    style="@style/titleStyle"
+                    android:gravity="center"
+                    android:text="This is Title" />
+
+                <RelativeLayout style="@style/W_m_H_w">
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        style="@style/labelStyle"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/vacation_type" />
+
+                    <TextView
+                        android:id="@+id/leaveTypeText"
+                        style="@style/W_w_H_w"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="40dp"
+                        android:layout_marginBottom="32dp"
+                        android:layout_toLeftOf="@id/textView1"
+                        android:background="@drawable/field"
+                        android:gravity="center" />
+
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/W_m_H_w" >
+
+                    <TextView
+                        android:id="@+id/fromDate"
+                        style="@style/labelStyle"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerInParent="true"
+                        android:text="@string/from_date" />
+
+                    <TextView
+                        android:id="@+id/startDateText"
+                        style="@style/W_w_H_w"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="40dp"
+                        android:layout_marginBottom="32dp"
+                        android:layout_toLeftOf="@id/fromDate"
+                        android:background="@drawable/field"
+                        android:gravity="center" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/W_m_H_w" >
+
+                    <TextView
+                        android:id="@+id/textViewDate"
+                        style="@style/labelStyle"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/to_date" />
+
+                    <TextView
+                        android:id="@+id/endDateText"
+                        style="@style/W_w_H_w"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="38dp"
+                        android:layout_marginBottom="32dp"
+                        android:layout_toLeftOf="@id/textViewDate"
+                        android:background="@drawable/field"
+                        android:gravity="center"
+                        android:padding="5dp" />
+                </RelativeLayout>
+
+                <RelativeLayout style="@style/W_m_H_w" >
+
+                    <TextView
+                        android:id="@+id/textViewPhone"
+                        style="@style/labelStyle"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/phone" />
+
+                    <EditText
+                        android:id="@+id/phoneText"
+                        style="@style/W_w_H_w"
+                        android:layout_centerInParent="true"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="38dp"
+                        android:layout_marginBottom="32dp"
+                        android:layout_toLeftOf="@id/textViewPhone"
+                        android:background="@drawable/field"
+                        android:gravity="center"
+                        android:maxLength="8"
+                        android:padding="5dp" />
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/submitButton"
+                style="@style/W_w_H_w"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_common"
+                android:text="@string/submit"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+    </RelativeLayout>
+</layout>

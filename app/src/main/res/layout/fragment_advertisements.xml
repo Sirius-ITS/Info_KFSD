@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background">
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_title" />
+    
+
+    <TextView
+        android:id="@+id/textTitle"
+        style="@style/W_m_H_w"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text=" " />
+
+
+    <LinearLayout
+        style="@style/W_m_H_m"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="vertical"
+        android:background="@drawable/emp_bg"
+        android:layout_below="@id/vsHeader"
+        >
+
+        <ExpandableListView
+             android:id="@+id/listDisplay" 
+             style="@style/W_m_H_m"
+             android:dividerHeight="0.2dp"
+             android:divider="@drawable/seperate_line"
+             android:groupIndicator="@null"
+             android:fitsSystemWindows="true"
+            android:childDivider="@drawable/line"
+
+            >
+            
+            
+            
+        </ExpandableListView>
+
+       
+    </LinearLayout>
+
+</RelativeLayout>

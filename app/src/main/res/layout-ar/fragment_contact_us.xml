@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:layout_width="match_parent"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+    <LinearLayout
+        android:id="@+id/topLinear"
+        style="@style/W_m_H_w"
+        android:layout_below="@id/vsHeader"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+        
+        
+        
+                <LinearLayout
+            style="@style/W_m_H_w"
+            android:orientation="horizontal" 
+            android:visibility="visible">
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <RelativeLayout
+                    style="@style/spinnerStyle"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginRight="120dp"
+
+
+                    >
+
+
+                    <Spinner
+                        android:id="@+id/msgType"
+                        style="@style/W_m_H_m"
+                        android:background="@null"
+                        android:spinnerMode="dropdown"
+                        />
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_alignParentLeft="true"
+                        android:layout_marginLeft="5dp"
+                        android:src="@drawable/downarrow" />
+
+                </RelativeLayout>
+
+
+                <TextView
+                    android:id="@+id/textView3"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                   
+                    android:text="@string/message_type" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:orientation="vertical" >
+
+           
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textView1"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/name" />
+
+                <EditText
+                    android:id="@+id/name"
+                    style="@style/W_m_H_w"
+                    android:layout_marginRight="120dp"
+                    android:layout_marginTop="5dp"
+                    android:singleLine="true"
+                    android:background="@drawable/field"
+                    android:gravity="center" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textView2"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/phone" />
+
+                <EditText
+                    android:id="@+id/phone"
+                    style="@style/W_m_H_w"
+                    android:layout_marginRight="120dp"
+                    android:layout_marginTop="5dp"
+                    android:singleLine="true"
+                    android:background="@drawable/field"
+                    android:gravity="center" />
+            </RelativeLayout>
+        </LinearLayout>
+        
+        
+         <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textView4"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/email" />
+
+                <EditText
+                    android:id="@+id/email"
+                    style="@style/W_m_H_w"
+                    android:layout_marginRight="120dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/field"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </RelativeLayout>
+        </LinearLayout>
+        
+                  <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/textView5"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:text="@string/subject" />
+
+                <EditText
+                    android:id="@+id/subject"
+                    style="@style/W_m_H_w"
+                    android:layout_marginRight="120dp"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/field"
+                    android:gravity="center"
+                    android:singleLine="true"/>
+            </RelativeLayout>
+        </LinearLayout>
+        
+         <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <!--android:layout_centerVertical="true"-->
+                <TextView
+                    android:id="@+id/textView6"
+                    style="@style/labelStyle"
+                    android:layout_alignParentRight="true"
+
+                    android:text="@string/body" />
+
+                <EditText
+                    android:id="@+id/body"
+                    android:layout_width="match_parent"
+                    android:layout_height="180dp"
+
+                    android:layout_marginTop="5dp"
+                    android:layout_below="@+id/textView6"
+                    android:background="@drawable/field"
+                    android:gravity="right" />
+
+            </RelativeLayout>
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/submitButton"
+            style="@style/W_w_H_w"
+            android:layout_marginTop="40dp"
+            android:background="@drawable/btn_common"
+            android:text="@string/submit"
+            android:textColor="#ffffff" />
+
+          </LinearLayout>
+
+  
+</RelativeLayout>

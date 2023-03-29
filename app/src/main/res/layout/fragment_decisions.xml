@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background"
+   >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+    
+    
+    <TextView
+        android:id="@+id/textTitle"
+        style="@style/W_m_H_w"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:text="This is title" />
+
+
+    <LinearLayout
+        style="@style/W_m_H_w"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_centerInParent="true"
+        android:orientation="vertical" >
+        
+        <ListView
+             android:id="@+id/listDisplay" 
+             style="@style/W_m_H_w"
+             android:dividerHeight="2dp"
+             android:divider="@drawable/seperate_line"
+            android:background="@drawable/emp_bg">
+            
+            
+            
+        </ListView>
+
+       
+    </LinearLayout>
+
+</RelativeLayout>

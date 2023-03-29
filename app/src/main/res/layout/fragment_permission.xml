@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+
+    <LinearLayout
+        android:id="@+id/topLinear"
+        style="@style/W_m_H_w"
+        android:layout_below="@id/vsHeader"
+        android:layout_margin="20dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/titleText"
+            style="@style/titleStyle"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="This is Title" />
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/labelStyle"
+                android:gravity="center"
+                android:text="@string/from_date" />
+
+            <TextView
+                 android:id="@+id/startDateText"
+                style="@style/W_w_H_w"
+                android:padding="5dp"
+                android:gravity="center"
+                android:layout_marginLeft="30dp"
+                android:background="@drawable/field" />
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                style="@style/labelStyle"
+                android:gravity="center"
+                android:text="@string/to_date" />
+
+            <TextView
+                android:id="@+id/endDateText"
+                style="@style/W_w_H_w"
+               android:layout_marginLeft="50dp"
+                android:gravity="center"
+                android:padding="5dp"
+
+                android:background="@drawable/field" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/submitButton"
+            style="@style/W_w_H_w"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_common"
+            android:text="@string/show"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+    <ViewFlipper
+        android:id="@+id/mainFlipper"
+        style="@style/W_m_H_w"
+        android:visibility="invisible"
+        android:layout_below="@id/topLinear"
+        android:layout_marginTop="10dp"
+        >
+
+        <!--
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:gravity="center" >
+            
+            <ImageView 
+                 style="@style/W_w_H_w"
+                 android:background="@drawable/logo_inside"/>
+        </LinearLayout>
+        
+         <LinearLayout
+            style="@style/W_m_H_w"
+            android:gravity="center" >
+            
+            <ImageView 
+                 style="@style/W_w_H_w"
+                 android:background="@drawable/singin_btn"/>
+        </LinearLayout>
+        -->
+
+    </ViewFlipper>
+
+
+    <TextView
+        android:id="@+id/currentPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_centerVertical="true"
+        android:layout_below="@+id/mainFlipper"
+        android:layout_marginTop="10dp"
+        />
+
+    <!--<RelativeLayout-->
+         <!--android:id="@+id/bottomLayout"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@id/mainFlipper"-->
+       <!--android:visibility="gone"-->
+        <!--android:layout_marginTop="20dp" >-->
+
+        <!--<Button-->
+            <!--android:id="@+id/nextButton"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentRight="true"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_marginRight="82dp"-->
+            <!-- -->
+            <!--android:text="Next" />-->
+
+        
+        <!--<Button-->
+            <!--android:id="@+id/prevButton"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignParentLeft="true"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_marginLeft="66dp"-->
+             <!-- -->
+            <!--android:text="Prev" />-->
+    <!--</RelativeLayout>-->
+
+</RelativeLayout>

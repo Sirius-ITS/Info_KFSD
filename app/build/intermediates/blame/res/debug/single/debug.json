@@ -1,0 +1,834 @@
+[
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_monthly_report_inquiry.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_monthly_report_inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_moci_adoption.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_moci_adoption.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_correspondence_final.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_correspondence_final.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_who_we_are.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_who_we_are.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_list_item_1.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\list_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_bt1_.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\home_bt1_.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_related_msg.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_related_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_line.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\line.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_up.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_in_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_list_item_correspondence_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\list_item_correspondence_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_inside.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\logo_inside.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_circular_snapshot.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\circular_snapshot.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar_brands_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar\\brands_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_related_msg.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\related_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_correspondence_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\list_item_correspondence_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_menu.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_permission.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_advrt_expandable_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_advrt_expandable_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vacations.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_vacations.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_item_list.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\d1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_header_activity_group.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\header_activity_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sick_vacations_balance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_sick_vacations_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_related_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_related_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_flipout.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\flipout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_correspondence.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_correspondence.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_credit_sector.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_credit_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_map.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_d2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\d2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_document.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\document.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_vacation.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\layout_vacation.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_title.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\header_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_rows_corres_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\rows_corres_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sector_pager.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_sector_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_change_passs_bg.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\change_passs_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_flipout_reverse.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\flipout_reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_login.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\bg_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_attendance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_group.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_seperate_line.jpg.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\seperate_line.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cart_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable\\cart_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_d1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\d1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_permission_request.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_permission_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_pai_adoption.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_pai_adoption.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_field.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\field.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_btn_common.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\btn_common.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_bt2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\home_bt2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sprate_dot.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\sprate_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_username.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\username.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_contact_us.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\b1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_item_list.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_item_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_procedure.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\procedure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_c2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\c2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_settings.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_news_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\search1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_circular_snapshot.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_circular_snapshot.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_phone_email.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_phone_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_profile.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_s_ddl.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\s_ddl.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_vacations_balance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_vacations_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emp_bg.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\emp_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_circular.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_circular.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_b2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\b2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_phone_email_fragment.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_phone_email_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_submenu.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_submenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_leave_request.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_leave_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_splash_hyperspace_jump.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\splash_hyperspace_jump.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar_reorder_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar\\reorder_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_flipin.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\flipin.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_a2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\a2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_related_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_related_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_perm_identity_white_18dp.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\ic_perm_identity_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_eng.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\arrow_eng.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow_arb.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\arrow_arb.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_password.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\password.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sector.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\d2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_header.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\logo_header.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_pai_adoption.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_pai_adoption.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_decisions.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_decisions.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_arrow.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_ar_bg.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\ar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bnavenues_mall.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\bnavenues_mall.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_correspondence.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\list_item_correspondence.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tabbar.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_tabbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar_valuecellborder.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar\\valuecellborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_activity_phone_email_fragment.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\activity_phone_email_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_news_list.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_news_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadein.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\fadein.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back_btn.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\back_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_leave_inquiry.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_leave_inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_share.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_singin_btn.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\singin_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_leave_request.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_leave_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar_promotions_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar\\promotions_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_tab_indicator.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_perm_identity_white_18dp.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-hdpi\\ic_perm_identity_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_flipin_reverse.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\flipin_reverse.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_contact_us.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_up.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_out_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_main_menu.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\header_main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_home_bt1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\home_bt1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_credit_sector.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_credit_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_circular_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_circular_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_b2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\b2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_procedure.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_procedure.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_leave_inquiry.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_leave_inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_save_btn.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\save_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_downarrow.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\downarrow.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_change_password.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_group.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_bt1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\home_bt1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_fadeout.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\fadeout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_snapshot_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_snapshot_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_instagram.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_credit_sector.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_credit_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_c1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\c1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ar_bg.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\ar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_twitter.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_moci_error.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_moci_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_permission_request.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_permission_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_month_year_picker_dialog.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\month_year_picker_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_procedure_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_procedure_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_home_bt2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\home_bt2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_sms.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\sms.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_advertisements.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_advertisements.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_change_password.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_correspondence_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_correspondence_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_map.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_b1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\b1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_s_ddl_arabic.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\s_ddl_arabic.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_save_btn.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\save_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_actionbar_background.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\actionbar_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar-xhdpi_a1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar-xhdpi\\a1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_facebook.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_news.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_news.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_singin_btn.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\singin_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_news_list.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_news_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_youtube.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\youtube.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_move.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_perm_identity_white_18dp.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_perm_identity_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_perm_identity_white_18dp.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xxhdpi\\ic_perm_identity_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_phone_email.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_phone_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_promotions_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable\\promotions_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_monthly_report_inquiry.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_monthly_report_inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_list_item_correspondence.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\list_item_correspondence.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home_bt1__.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\home_bt1__.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_logo.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\bg_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_home.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_document.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_document.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_vacations_balance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_vacations_balance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_clearance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_clearance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_old.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_home_old.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_sector.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_sector.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_snapshot_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\row_snapshot_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_main_background.jpg.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\main_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item_1.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\list_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_menu.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_submenu.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_submenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a2.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\a2.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_rows_corres_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\rows_corres_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_moci_adoption.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_moci_adoption.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ar_cart_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-ar\\cart_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_en_without.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\en_without.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fb.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_procedure_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_procedure_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_sector_pager.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_sector_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\menu_phone_email.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\menu\\phone_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_brands_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable\\brands_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_advertisement_bg.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\advertisement_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_correspondence_details.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_correspondence_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_valuecellborder.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable\\valuecellborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_moci_error.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_moci_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\anim_move_down.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\anim\\move_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_a1.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\a1.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_list_group.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\list_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_perm_identity_white_18dp.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-mdpi\\ic_perm_identity_white_18dp.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_spinner_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\view_spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo_login.png.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable-xhdpi\\logo_login.png"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_clearance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_clearance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_activity_group.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\header_activity_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_attendance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_row_advrt_expandable_item.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\row_advrt_expandable_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reorder_tab_button.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\drawable\\reorder_tab_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_permission.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_permission.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_vacations.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_vacations.xml"
+    },
+    {
+        "merged": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\build\\intermediates\\res\\merged\\debug\\layout-ar_fragment_sick_vacations_balance.xml.flat",
+        "source": "C:\\Users\\mostafaa\\Desktop\\AndroidStudioProjects\\kfsd\\app\\src\\main\\res\\layout-ar\\fragment_sick_vacations_balance.xml"
+    }
+]

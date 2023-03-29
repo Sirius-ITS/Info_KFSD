@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:layout_marginTop="10dp">
+
+    <TableRow
+        android:id="@+id/LL_proc_to"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#5B83B6"
+        android:orientation="horizontal"
+        android:padding="5dp" 
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/TV_proc_to"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/procedure_to"
+            android:textColor="@color/TV_White"/>
+
+        <TextView
+            android:id="@+id/ET_proc_to"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:textColor="@color/TV_White"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/LL_type"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#D7DFEA"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/TV_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/TV_Black"
+            android:text="@string/type"/>
+
+        <TextView
+            android:id="@+id/ET_type"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/TV_Black"/>
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/LL_date"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#5B83B6"
+        android:orientation="horizontal" 
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/TV_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/date"
+            android:textColor="@color/TV_White"/>
+
+        <TextView
+            android:id="@+id/ET_date"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/Cancel"
+            android:textColor="@color/TV_White"/>
+    </TableRow>
+    
+      <TableRow
+        android:id="@+id/LL_status"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#D7DFEA"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/TV_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textColor="@color/TV_Black"
+            android:text="@string/type"/>
+
+        <TextView
+            android:id="@+id/ET_status"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+
+            android:textColor="@color/TV_Black" />
+    </TableRow>
+    
+
+</TableLayout>

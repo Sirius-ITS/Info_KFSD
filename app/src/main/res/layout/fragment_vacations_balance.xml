@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        style="@style/W_m_H_m"
+        android:background="@drawable/main_background">
+
+        <ViewStub
+            android:id="@+id/vsHeader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inflatedId="@+id/vsHeader"
+            android:layout="@layout/header_activity_group" />
+
+        <LinearLayout
+            android:id="@+id/topLinear"
+            style="@style/W_m_H_w"
+            android:layout_below="@id/vsHeader"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/W_m_H_w"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/titleText"
+                    style="@style/titleStyle"
+                    android:gravity="center"
+                    android:text="This is Title" />
+
+                <RelativeLayout style="@style/W_m_H_w">
+
+                    <Spinner
+                        android:id="@+id/leaveTypeSpinner"
+                        style="@style/W_w_H_w"
+                        android:layout_marginLeft="32dp"
+                        android:layout_marginTop="32dp"
+                        android:layout_marginBottom="32dp"
+                        android:layout_toRightOf="@id/textView1"
+                        android:background="@null"
+                        android:gravity="center"
+                        android:padding="5dp"
+                        android:layout_centerVertical="true"
+                        android:spinnerMode="dropdown" />
+
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        style="@style/labelStyle"
+                        android:layout_alignParentLeft="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/vacation_type" />
+                </RelativeLayout>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/submitButton"
+                style="@style/W_w_H_w"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/btn_common"
+                android:text="@string/show"
+                android:textColor="#ffffff" />
+        </LinearLayout>
+
+        <ViewFlipper
+            android:id="@+id/mainFlipper"
+            style="@style/W_m_H_w"
+            android:layout_below="@id/topLinear"
+            android:layout_marginTop="10dp"
+            android:visibility="gone">
+
+
+        </ViewFlipper>
+
+        <ScrollView
+            style="@style/W_m_H_m"
+            android:layout_below="@id/mainFlipper">
+
+            <TableLayout
+                android:id="@+id/tableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone">
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_column="1"
+                        android:layout_marginLeft="20dp"
+                        android:text="@string/cumulative" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/cumulativeValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/Annual"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/annualValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/frozen_balance"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/frozenBalanceValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/former_excluded"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/formerExcludedValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/currently_excluded"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/currentlyExcluded"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/number_of_vacations"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/noOfVacationsValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/total_duration"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/totalDurationValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/actual_duration"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/actualDurationValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/cash_redemption"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/cashRedemptionValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/residual"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_column="1" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/residualValue"
+                        android:layout_marginLeft="40dp"
+                        android:layout_column="2" />
+
+                </TableRow>
+            </TableLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+</layout>

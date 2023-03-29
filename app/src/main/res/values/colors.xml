@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="ddl_bg">#B6C8DF</color>
+	<color name="txt_clr">#090909</color>
+	<color name="TV_White">@android:color/white</color>
+	<color name="TV_Black">@android:color/black</color>
+	<color name="TV_Green">#575757</color>
+	<color name="TV_Red">#FC0007</color>
+	<color name="TV_Blue">#575757</color>
+	<color name="dark_blue">#DD9051</color>
+	<color name="light_blue">#D7DFEA</color>
+
+
+
+</resources>

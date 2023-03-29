@@ -1,0 +1,530 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.KuwaitKFF"
+4    android:versionCode="14"
+5    android:versionName="KFF" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="11"
+8-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+10
+11    <!-- <uses-sdk -->
+12    <!-- android:minSdkVersion="11" -->
+13    <!-- android:targetSdkVersion="19" /> -->
+14
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:10:5-67
+15-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:10:22-64
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:11:5-81
+16-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:12:5-79
+17-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:5-81
+18-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:22-78
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:5-79
+19-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:22-76
+20
+21    <!-- Keeps the processor from sleeping when a message is received. -->
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:17:5-68
+22-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:17:22-65
+23    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+23-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:5-79
+23-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:22-76
+24    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+24-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:5-81
+24-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:22-78
+25    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+25-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:20:5-81
+25-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:20:22-78
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:21:5-66
+26-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:21:22-63
+27    <uses-permission android:name="android.permission.CALL_PHONE" />
+27-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:22:5-69
+27-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:22:22-66
+28    <uses-permission android:name="android.permission.SET_DEBUG_APP" />
+28-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:23:5-72
+28-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:23:22-69
+29    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
+29-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:24:5-73
+29-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:24:22-70
+30    <uses-permission android:name="android.permission.READ_CALENDAR" />
+30-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:25:5-72
+30-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:25:22-69
+31
+32    <!-- Permissions required for GCM -->
+33    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+33-->[com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:21:5-82
+33-->[com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:21:22-79
+34
+35    <uses-feature
+35-->[com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:22:5-24:33
+36        android:glEsVersion="0x00020000"
+36-->[com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:23:8-40
+37        android:required="true" />
+37-->[com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:24:8-31
+38
+39    <application
+39-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:27:5-220:19
+40        android:name="com.KuwaitKFF.main.Kfsd"
+40-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:28:9-47
+41        android:allowBackup="true"
+41-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:29:9-35
+42        android:debuggable="true"
+43        android:icon="@drawable/ic_launcher"
+43-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:31:9-45
+44        android:label="@string/app_name"
+44-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:32:9-41
+45        android:testOnly="true"
+46        android:theme="@style/AppTheme"
+46-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:33:9-40
+47        android:usesCleartextTraffic="true" >
+47-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:30:9-44
+48        <meta-data
+48-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:34:9-36:69
+49            android:name="com.google.android.gms.version"
+49-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:35:13-58
+50            android:value="@integer/google_play_services_version" />
+50-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:36:13-66
+51        <meta-data
+51-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:37:9-39:71
+52            android:name="com.google.android.geo.API_KEY"
+52-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:38:13-58
+53            android:value="AIzaSyBHJdtYRdbPUW_GhyUxudcIdpU9DL9yAk0" />
+53-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:39:13-68
+54
+55        <!-- RELEASE KEY -->
+56        <!-- AIzaSyBHJdtYRdbPUW_GhyUxudcIdpU9DL9yAk0 -->
+57
+58
+59        <!-- DEBUG KEY -->
+60        <!-- AIzaSyA90R_Wr62G9J_ZcmawAzVOWmtx_Vl8nGo -->
+61        <uses-library
+61-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:9-88
+62            android:name="org.apache.http.legacy"
+62-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:23-60
+63            android:required="false" />
+63-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:61-85
+64
+65        <activity
+65-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:47:9-56:20
+66            android:name="com.KuwaitKFF.splash.SplashActivity"
+66-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:48:13-63
+67            android:label="@string/app_name"
+67-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:49:13-45
+68            android:screenOrientation="portrait" >
+68-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:50:13-49
+69            <intent-filter>
+69-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:51:13-55:29
+70                <action android:name="android.intent.action.MAIN" />
+70-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:52:17-69
+70-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:52:25-66
+71
+72                <category android:name="android.intent.category.LAUNCHER" />
+72-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:54:17-77
+72-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:54:27-74
+73            </intent-filter>
+74        </activity>
+75        <activity
+75-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:57:9-60:55
+76            android:name="com.KuwaitKFF.base.TabbarActivity"
+76-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:58:13-61
+77            android:screenOrientation="portrait"
+77-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:59:13-49
+78            android:windowSoftInputMode="adjustPan" />
+78-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:60:13-52
+79        <activity
+79-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:61:9-64:55
+80            android:name="com.KuwaitKFF.home.HomeGroupActivity"
+80-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:62:13-64
+81            android:screenOrientation="portrait"
+81-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:63:13-49
+82            android:windowSoftInputMode="adjustPan" />
+82-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:64:13-52
+83        <activity
+83-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:65:9-68:55
+84            android:name="com.KuwaitKFF.news.NewsGroupActivity"
+84-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:66:13-64
+85            android:screenOrientation="portrait"
+85-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:67:13-49
+86            android:windowSoftInputMode="adjustPan" />
+86-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:68:13-52
+87        <activity
+87-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:69:9-72:55
+88            android:name="com.KuwaitKFF.advertisements.AdvertisementsGroupActivity"
+88-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:70:13-84
+89            android:screenOrientation="portrait"
+89-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:71:13-49
+90            android:windowSoftInputMode="adjustPan" />
+90-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:72:13-52
+91        <activity
+91-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:73:9-76:55
+92            android:name="com.KuwaitKFF.more.MoreGroupActivity"
+92-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:74:13-64
+93            android:screenOrientation="portrait"
+93-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:75:13-49
+94            android:windowSoftInputMode="adjustPan" />
+94-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:76:13-52
+95        <activity
+95-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:77:9-80:55
+96            android:name="com.KuwaitKFF.login.ProfileFragment"
+96-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:78:13-63
+97            android:screenOrientation="portrait"
+97-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:79:13-49
+98            android:windowSoftInputMode="adjustPan" />
+98-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:80:13-52
+99        <activity
+99-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:81:9-84:55
+100            android:name="com.KuwaitKFF.login.FragmentAttendance"
+100-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:82:13-66
+101            android:screenOrientation="portrait"
+101-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:83:13-49
+102            android:windowSoftInputMode="adjustPan" />
+102-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:84:13-52
+103        <activity
+103-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:85:9-88:55
+104            android:name="com.KuwaitKFF.login.FragmentPermission"
+104-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:86:13-66
+105            android:screenOrientation="portrait"
+105-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:87:13-49
+106            android:windowSoftInputMode="adjustPan" />
+106-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:88:13-52
+107        <activity
+107-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:89:9-92:55
+108            android:name="com.KuwaitKFF.changepassword.ChangePasswordFragment"
+108-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:90:13-79
+109            android:screenOrientation="portrait"
+109-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:91:13-49
+110            android:windowSoftInputMode="adjustPan" />
+110-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:92:13-52
+111        <activity
+111-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:93:9-96:55
+112            android:name="com.KuwaitKFF.home.SectorFragment"
+112-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:94:13-61
+113            android:screenOrientation="portrait"
+113-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:95:13-49
+114            android:windowSoftInputMode="adjustPan" />
+114-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:96:13-52
+115        <activity
+115-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:98:9-101:55
+116            android:name="com.KuwaitKFF.home.PAIAdoptionFragment"
+116-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:99:13-66
+117            android:screenOrientation="portrait"
+117-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:100:13-49
+118            android:windowSoftInputMode="adjustPan" />
+118-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:101:13-52
+119        <activity
+119-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:102:9-105:55
+120            android:name="com.KuwaitKFF.home.MOCIAdoptionFragment"
+120-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:103:13-67
+121            android:screenOrientation="portrait"
+121-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:104:13-49
+122            android:windowSoftInputMode="adjustPan" />
+122-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:105:13-52
+123        <activity
+123-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:107:9-110:55
+124            android:name="com.KuwaitKFF.home.MOCIError"
+124-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:108:13-56
+125            android:screenOrientation="portrait"
+125-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:109:13-49
+126            android:windowSoftInputMode="adjustPan" />
+126-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:110:13-52
+127        <activity
+127-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:112:9-115:55
+128            android:name="com.KuwaitKFF.home.CreditSectorFragment"
+128-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:113:13-67
+129            android:screenOrientation="portrait"
+129-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:114:13-49
+130            android:windowSoftInputMode="adjustPan" />
+130-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:115:13-52
+131        <activity
+131-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:116:9-119:55
+132            android:name="com.KuwaitKFF.home.RemarkSectorFragment"
+132-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:117:13-67
+133            android:screenOrientation="portrait"
+133-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:118:13-49
+134            android:windowSoftInputMode="adjustPan" />
+134-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:119:13-52
+135        <activity
+135-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:120:9-123:55
+136            android:name="com.KuwaitKFF.home.ClearanceFragment"
+136-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:121:13-64
+137            android:screenOrientation="portrait"
+137-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:122:13-49
+138            android:windowSoftInputMode="adjustPan" />
+138-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:123:13-52
+139        <activity
+139-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:124:9-127:55
+140            android:name="com.KuwaitKFF.decisions.DecisionDetailsFragment"
+140-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:125:13-75
+141            android:screenOrientation="portrait"
+141-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:126:13-49
+142            android:windowSoftInputMode="adjustPan" />
+142-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:127:13-52
+143        <activity
+143-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:128:9-131:55
+144            android:name="com.KuwaitKFF.circular.CircularDetailsFragment"
+144-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:129:13-74
+145            android:screenOrientation="portrait"
+145-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:130:13-49
+146            android:windowSoftInputMode="adjustPan" />
+146-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:131:13-52
+147        <activity
+147-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:132:9-135:55
+148            android:name="com.KuwaitKFF.news.NewsDetailsFragment"
+148-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:133:13-66
+149            android:screenOrientation="portrait"
+149-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:134:13-49
+150            android:windowSoftInputMode="adjustPan" />
+150-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:135:13-52
+151        <activity
+151-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:136:9-139:55
+152            android:name="com.KuwaitKFF.advertisements.AdvertisementsDetailsFragment"
+152-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:137:13-86
+153            android:screenOrientation="portrait"
+153-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:138:13-49
+154            android:windowSoftInputMode="adjustPan" />
+154-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:139:13-52
+155        <activity
+155-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:140:9-143:55
+156            android:name="com.KuwaitKFF.vacation.FragmentVacation"
+156-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:141:13-67
+157            android:screenOrientation="portrait"
+157-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:142:13-49
+158            android:windowSoftInputMode="adjustPan" />
+158-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:143:13-52
+159        <activity
+159-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:144:9-147:55
+160            android:name="com.KuwaitKFF.task.FragmentTask"
+160-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:145:13-59
+161            android:screenOrientation="portrait"
+161-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:146:13-49
+162            android:windowSoftInputMode="adjustPan" />
+162-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:147:13-52
+163        <activity
+163-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:148:9-151:55
+164            android:name="com.KuwaitKFF.newscreens.FragmentPermissionRequest"
+164-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:149:13-78
+165            android:screenOrientation="portrait"
+165-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:150:13-49
+166            android:windowSoftInputMode="adjustPan" />
+166-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:151:13-52
+167        <activity
+167-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:153:9-156:55
+168            android:name="com.KuwaitKFF.newscreens.FragmentPermissionInquiry"
+168-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:154:13-78
+169            android:screenOrientation="portrait"
+169-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:155:13-49
+170            android:windowSoftInputMode="adjustPan" />
+170-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:156:13-52
+171        <activity
+171-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:158:9-161:55
+172            android:name="com.KuwaitKFF.newscreens.FragmentLeaveInquiry"
+172-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:159:13-73
+173            android:screenOrientation="portrait"
+173-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:160:13-49
+174            android:windowSoftInputMode="adjustPan" />
+174-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:161:13-52
+175        <activity
+175-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:163:9-166:55
+176            android:name="com.KuwaitKFF.newscreens.FragmentLeaveRequest"
+176-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:164:13-73
+177            android:screenOrientation="portrait"
+177-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:165:13-49
+178            android:windowSoftInputMode="adjustPan" />
+178-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:166:13-52
+179        <activity
+179-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:168:9-179:20
+180            android:name="com.KuwaitKFF.correspondence.CorrespondenceFragment"
+180-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:169:13-79
+181            android:screenOrientation="portrait"
+181-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:170:13-49
+182            android:windowSoftInputMode="adjustPan" >
+182-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:171:13-52
+183            <intent-filter>
+183-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:172:13-174:29
+184                <action android:name="android.intent.action.SEARCH" />
+184-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:173:17-71
+184-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:173:25-68
+185            </intent-filter>
+186
+187            <meta-data
+187-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:176:13-178:54
+188                android:name="android.app.searchable"
+188-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:177:17-54
+189                android:resource="@xml/searchable" />
+189-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:178:17-51
+190        </activity>
+191        <activity
+191-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:180:9-183:55
+192            android:name="com.KuwaitKFF.correspondence.CorrespondenceDetailsFragment"
+192-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:181:13-86
+193            android:screenOrientation="portrait"
+193-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:182:13-49
+194            android:windowSoftInputMode="adjustPan" />
+194-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:183:13-52
+195        <activity
+195-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:184:9-187:55
+196            android:name="com.KuwaitKFF.more.ContactUsFragment"
+196-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:185:13-64
+197            android:screenOrientation="portrait"
+197-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:186:13-49
+198            android:windowSoftInputMode="adjustPan" />
+198-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:187:13-52
+199        <activity
+199-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:188:9-191:55
+200            android:name="com.KuwaitKFF.more.MapActivityFragment"
+200-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:189:13-66
+201            android:screenOrientation="portrait"
+201-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:190:13-49
+202            android:windowSoftInputMode="adjustPan" />
+202-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:191:13-52
+203        <activity
+203-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:192:9-195:55
+204            android:name="com.KuwaitKFF.more.SocialMediaFragment"
+204-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:193:13-66
+205            android:screenOrientation="portrait"
+205-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:194:13-49
+206            android:windowSoftInputMode="adjustPan" />
+206-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:195:13-52
+207        <activity
+207-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:196:9-199:55
+208            android:name="com.KuwaitKFF.more.WhoWeAreFragment"
+208-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:197:13-63
+209            android:screenOrientation="portrait"
+209-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:198:13-49
+210            android:windowSoftInputMode="adjustPan" />
+210-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:199:13-52
+211        <activity
+211-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:200:9-203:20
+212            android:name="com.KuwaitKFF.more.PhoneEmailFragment"
+212-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:201:13-65
+213            android:label="@string/title_activity_phone_email_fragment" >
+213-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:202:13-72
+214        </activity>
+215        <activity
+215-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:204:9-207:20
+216            android:name="com.KuwaitKFF.correspondence.CorrespondenceSnapshotActivity"
+216-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:205:13-87
+217            android:label="@string/title_activity_circular_snapshot" >
+217-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:206:13-69
+218        </activity>
+219        <activity
+219-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:208:9-211:20
+220            android:name="com.KuwaitKFF.correspondence.DocumentActivity"
+220-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:209:13-73
+221            android:label="@string/title_activity_document" >
+221-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:210:13-60
+222        </activity>
+223        <activity
+223-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:212:9-215:20
+224            android:name="com.KuwaitKFF.correspondence.RelatedMsgActivity"
+224-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:213:13-75
+225            android:label="@string/title_activity_related_msg" >
+225-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:214:13-63
+226        </activity>
+227        <activity
+227-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:216:9-219:20
+228            android:name="com.KuwaitKFF.correspondence.ProcedureActivity"
+228-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:217:13-74
+229            android:label="@string/title_activity_procedure" >
+229-->D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:218:13-61
+230        </activity>
+231        <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+232        <activity
+232-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:26:9-29:64
+233            android:name="com.google.android.gms.ads.AdActivity"
+233-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:27:13-65
+234            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+234-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:28:13-122
+235            android:theme="@android:style/Theme.Translucent" />
+235-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:29:13-61
+236        <activity
+236-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:30:9-31:52
+237            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+237-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:30:19-91
+238            android:theme="@style/Theme.IAPTheme" />
+238-->[com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:31:13-50
+239        <activity
+239-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:21:9-29:20
+240            android:name="com.google.android.gms.appinvite.PreviewActivity"
+240-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:22:17-48
+241            android:exported="true"
+241-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:23:17-40
+242            android:theme="@style/Theme.AppInvite.Preview" >
+242-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:24:17-63
+243            <intent-filter>
+243-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:25:13-28:29
+244                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+244-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:26:17-89
+244-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:26:25-87
+245
+246                <category android:name="android.intent.category.DEFAULT" />
+246-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:27:17-75
+246-->[com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:27:27-73
+247            </intent-filter>
+248        </activity>
+249        <activity
+249-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:21:9-24:46
+250            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+250-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:21:19-72
+251            android:excludeFromRecents="true"
+251-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:23:19-52
+252            android:exported="false"
+252-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:24:19-43
+253            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+253-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:22:19-78
+254        <!--
+255Service handling Google Sign-In user revocation. For apps that do not integrate with
+256            Google Sign-In, this service will never be started.
+257        -->
+258        <service
+258-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:28:9-31:110
+259            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+259-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:29:13-62
+260            android:exported="true"
+260-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:30:13-36
+261            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+261-->[com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:31:13-107
+262
+263        <provider
+263-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:28:7-31:37
+264            android:name="com.google.android.gms.measurement.AppMeasurementContentProvider"
+264-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:30:11-90
+265            android:authorities="com.KuwaitKFF.google_measurement_service"
+265-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:29:11-76
+266            android:exported="false" />
+266-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:31:11-35
+267
+268        <receiver
+268-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:33:7-39:18
+269            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+269-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:34:11-83
+270            android:enabled="true" >
+270-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:35:11-33
+271            <intent-filter>
+271-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:36:9-38:25
+272                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+272-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:37:11-77
+272-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:37:19-75
+273            </intent-filter>
+274        </receiver>
+275
+276        <service
+276-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:41:7-44:37
+277            android:name="com.google.android.gms.measurement.AppMeasurementService"
+277-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:42:11-82
+278            android:enabled="true"
+278-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:43:11-33
+279            android:exported="false" />
+279-->[com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:44:11-35
+280    </application>
+281
+282</manifest>

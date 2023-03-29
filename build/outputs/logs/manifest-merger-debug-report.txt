@@ -1,0 +1,691 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+MERGED from [:libraryCalDroid] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryCalDroid\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:libraryUniversalImageLoader] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryUniversalImageLoader\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\65948e4dbac29cd48ce3babcd5397fd9\play-services-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4219e55801b3c4c38b8bb4f3b5754d05\play-services-cast-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6d63fb055c53f9b8465a3aa8c01b8727\mediarouter-v7-23.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4d50381406547dd2a5a1dc638fa9d160\appcompat-v7-23.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\72269064e720c0f48ec9287ebabb5b90\play-services-wallet-8.4.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\b4797cfc6a42ae6a15a608a8b0626a3c\play-services-identity-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5c761d779223b25e92bb74a2f76009e6\play-services-appindexing-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:16:1-31:12
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\ceaa9fca96f88fc26a06599e0d4a5185\play-services-appstate-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:16:1-33:12
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\05d897f38af6de789cf19dd707b4c6d3\play-services-games-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\184dadfae14079e2d0bbd4e2316224e5\play-services-drive-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\fcf1b64d9f9350cea35afea66bf8863a\play-services-fitness-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\61d8b6f837bbfe70d8e755c7376399e5\play-services-location-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\3b74959c4181f0648c2f98327879d888\play-services-panorama-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f1ed149eb1f008d869243d32db18dc87\play-services-plus-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\eb7848062905e34af7d1a5bca764f0df\play-services-safetynet-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4381838dd5d4a9fd6ad5dd1285a3540e\play-services-vision-8.4.0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\de1073b65ba9a39dd7108529ef0b9c49\play-services-wearable-8.4.0\AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e75c4c0a9a1cff6381768b91f7789989\play-services-base-8.4.0\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6eccab5fe3b58097b351d32a48bafc5e\support-v4-23.1.1\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+	package
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:1-222:12
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:19:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:17:5-68
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:17:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:21:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:22:22-66
+uses-permission#android.permission.SET_DEBUG_APP
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:23:5-72
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:23:22-69
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:24:5-73
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:24:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:25:22-69
+application
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:27:5-220:19
+MERGED from [:libraryCalDroid] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryCalDroid\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [:libraryCalDroid] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryCalDroid\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\65948e4dbac29cd48ce3babcd5397fd9\play-services-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\65948e4dbac29cd48ce3babcd5397fd9\play-services-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4219e55801b3c4c38b8bb4f3b5754d05\play-services-cast-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4219e55801b3c4c38b8bb4f3b5754d05\play-services-cast-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6d63fb055c53f9b8465a3aa8c01b8727\mediarouter-v7-23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6d63fb055c53f9b8465a3aa8c01b8727\mediarouter-v7-23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4d50381406547dd2a5a1dc638fa9d160\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4d50381406547dd2a5a1dc638fa9d160\appcompat-v7-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:24:5-32:19
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\b4797cfc6a42ae6a15a608a8b0626a3c\play-services-identity-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\b4797cfc6a42ae6a15a608a8b0626a3c\play-services-identity-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5c761d779223b25e92bb74a2f76009e6\play-services-appindexing-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5c761d779223b25e92bb74a2f76009e6\play-services-appindexing-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:20:5-30:19
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\ceaa9fca96f88fc26a06599e0d4a5185\play-services-appstate-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\ceaa9fca96f88fc26a06599e0d4a5185\play-services-appstate-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\05d897f38af6de789cf19dd707b4c6d3\play-services-games-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\05d897f38af6de789cf19dd707b4c6d3\play-services-games-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\184dadfae14079e2d0bbd4e2316224e5\play-services-drive-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\184dadfae14079e2d0bbd4e2316224e5\play-services-drive-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\fcf1b64d9f9350cea35afea66bf8863a\play-services-fitness-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\fcf1b64d9f9350cea35afea66bf8863a\play-services-fitness-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\61d8b6f837bbfe70d8e755c7376399e5\play-services-location-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\61d8b6f837bbfe70d8e755c7376399e5\play-services-location-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:27:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:20:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\3b74959c4181f0648c2f98327879d888\play-services-panorama-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\3b74959c4181f0648c2f98327879d888\play-services-panorama-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f1ed149eb1f008d869243d32db18dc87\play-services-plus-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f1ed149eb1f008d869243d32db18dc87\play-services-plus-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\eb7848062905e34af7d1a5bca764f0df\play-services-safetynet-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\eb7848062905e34af7d1a5bca764f0df\play-services-safetynet-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4381838dd5d4a9fd6ad5dd1285a3540e\play-services-vision-8.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4381838dd5d4a9fd6ad5dd1285a3540e\play-services-vision-8.4.0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\de1073b65ba9a39dd7108529ef0b9c49\play-services-wearable-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\de1073b65ba9a39dd7108529ef0b9c49\play-services-wearable-8.4.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:26:5-46:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6eccab5fe3b58097b351d32a48bafc5e\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6eccab5fe3b58097b351d32a48bafc5e\support-v4-23.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:31:9-45
+	android:allowBackup
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:33:9-40
+	android:usesCleartextTraffic
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:28:9-47
+meta-data#com.google.android.gms.version
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:34:9-36:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:36:13-66
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:35:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:37:9-39:71
+	android:value
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:39:13-68
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:38:13-58
+uses-library#org.apache.http.legacy
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:9-88
+	android:required
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:61-85
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:46:23-60
+activity#com.KuwaitKFF.splash.SplashActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:47:9-56:20
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:50:13-49
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:49:13-45
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:48:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:54:27-74
+activity#com.KuwaitKFF.base.TabbarActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:57:9-60:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:59:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:60:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:58:13-61
+activity#com.KuwaitKFF.home.HomeGroupActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:61:9-64:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:63:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:64:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:62:13-64
+activity#com.KuwaitKFF.news.NewsGroupActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:65:9-68:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:67:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:68:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:66:13-64
+activity#com.KuwaitKFF.advertisements.AdvertisementsGroupActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:69:9-72:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:71:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:72:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:70:13-84
+activity#com.KuwaitKFF.more.MoreGroupActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:73:9-76:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:75:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:76:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:74:13-64
+activity#com.KuwaitKFF.login.ProfileFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:77:9-80:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:79:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:80:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:78:13-63
+activity#com.KuwaitKFF.login.FragmentAttendance
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:81:9-84:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:84:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:82:13-66
+activity#com.KuwaitKFF.login.FragmentPermission
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:85:9-88:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:87:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:88:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:86:13-66
+activity#com.KuwaitKFF.changepassword.ChangePasswordFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:89:9-92:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:91:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:92:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:90:13-79
+activity#com.KuwaitKFF.home.SectorFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:93:9-96:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:95:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:96:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:94:13-61
+activity#com.KuwaitKFF.home.PAIAdoptionFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:98:9-101:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:100:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:101:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:99:13-66
+activity#com.KuwaitKFF.home.MOCIAdoptionFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:102:9-105:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:104:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:105:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:103:13-67
+activity#com.KuwaitKFF.home.MOCIError
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:107:9-110:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:109:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:110:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:108:13-56
+activity#com.KuwaitKFF.home.CreditSectorFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:112:9-115:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:114:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:115:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:113:13-67
+activity#com.KuwaitKFF.home.RemarkSectorFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:116:9-119:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:118:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:119:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:117:13-67
+activity#com.KuwaitKFF.home.ClearanceFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:120:9-123:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:122:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:123:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:121:13-64
+activity#com.KuwaitKFF.decisions.DecisionDetailsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:124:9-127:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:126:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:127:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:125:13-75
+activity#com.KuwaitKFF.circular.CircularDetailsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:128:9-131:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:130:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:131:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:129:13-74
+activity#com.KuwaitKFF.news.NewsDetailsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:132:9-135:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:134:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:135:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:133:13-66
+activity#com.KuwaitKFF.advertisements.AdvertisementsDetailsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:136:9-139:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:138:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:139:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:137:13-86
+activity#com.KuwaitKFF.vacation.FragmentVacation
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:140:9-143:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:142:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:143:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:141:13-67
+activity#com.KuwaitKFF.task.FragmentTask
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:144:9-147:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:146:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:147:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:145:13-59
+activity#com.KuwaitKFF.newscreens.FragmentPermissionRequest
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:148:9-151:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:150:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:151:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:149:13-78
+activity#com.KuwaitKFF.newscreens.FragmentPermissionInquiry
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:153:9-156:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:155:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:156:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:154:13-78
+activity#com.KuwaitKFF.newscreens.FragmentLeaveInquiry
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:158:9-161:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:160:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:161:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:159:13-73
+activity#com.KuwaitKFF.newscreens.FragmentLeaveRequest
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:163:9-166:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:165:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:166:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:164:13-73
+activity#com.KuwaitKFF.correspondence.CorrespondenceFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:168:9-179:20
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:170:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:171:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:169:13-79
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:172:13-174:29
+action#android.intent.action.SEARCH
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:173:17-71
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:173:25-68
+meta-data#android.app.searchable
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:176:13-178:54
+	android:resource
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:178:17-51
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:177:17-54
+activity#com.KuwaitKFF.correspondence.CorrespondenceDetailsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:180:9-183:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:182:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:183:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:181:13-86
+activity#com.KuwaitKFF.more.ContactUsFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:184:9-187:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:186:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:187:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:185:13-64
+activity#com.KuwaitKFF.more.MapActivityFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:188:9-191:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:190:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:191:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:189:13-66
+activity#com.KuwaitKFF.more.SocialMediaFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:192:9-195:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:194:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:195:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:193:13-66
+activity#com.KuwaitKFF.more.WhoWeAreFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:196:9-199:55
+	android:screenOrientation
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:198:13-49
+	android:windowSoftInputMode
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:199:13-52
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:197:13-63
+activity#com.KuwaitKFF.more.PhoneEmailFragment
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:200:9-203:20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:202:13-72
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:201:13-65
+activity#com.KuwaitKFF.correspondence.CorrespondenceSnapshotActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:204:9-207:20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:206:13-69
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:205:13-87
+activity#com.KuwaitKFF.correspondence.DocumentActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:208:9-211:20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:210:13-60
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:209:13-73
+activity#com.KuwaitKFF.correspondence.RelatedMsgActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:212:9-215:20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:214:13-63
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:213:13-75
+activity#com.KuwaitKFF.correspondence.ProcedureActivity
+ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:216:9-219:20
+	android:label
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:218:13-61
+	android:name
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml:217:13-74
+uses-sdk
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+MERGED from [:libraryCalDroid] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryCalDroid\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryCalDroid] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryCalDroid\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryUniversalImageLoader] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryUniversalImageLoader\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:libraryUniversalImageLoader] D:\Downloads\Osama\KFFApp-ali (1)\KFSD\libraryUniversalImageLoader\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\65948e4dbac29cd48ce3babcd5397fd9\play-services-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\65948e4dbac29cd48ce3babcd5397fd9\play-services-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4219e55801b3c4c38b8bb4f3b5754d05\play-services-cast-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-cast:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4219e55801b3c4c38b8bb4f3b5754d05\play-services-cast-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6d63fb055c53f9b8465a3aa8c01b8727\mediarouter-v7-23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:23.0.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6d63fb055c53f9b8465a3aa8c01b8727\mediarouter-v7-23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4d50381406547dd2a5a1dc638fa9d160\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4d50381406547dd2a5a1dc638fa9d160\appcompat-v7-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-analytics:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e0a8a5dba160094baf2c4cb6d0913f8a\play-services-analytics-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\72269064e720c0f48ec9287ebabb5b90\play-services-wallet-8.4.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-wallet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\72269064e720c0f48ec9287ebabb5b90\play-services-wallet-8.4.0\AndroidManifest.xml:19:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\b4797cfc6a42ae6a15a608a8b0626a3c\play-services-identity-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\b4797cfc6a42ae6a15a608a8b0626a3c\play-services-identity-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5c761d779223b25e92bb74a2f76009e6\play-services-appindexing-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appindexing:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5c761d779223b25e92bb74a2f76009e6\play-services-appindexing-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\ceaa9fca96f88fc26a06599e0d4a5185\play-services-appstate-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-appstate:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\ceaa9fca96f88fc26a06599e0d4a5185\play-services-appstate-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\05d897f38af6de789cf19dd707b4c6d3\play-services-games-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-games:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\05d897f38af6de789cf19dd707b4c6d3\play-services-games-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\184dadfae14079e2d0bbd4e2316224e5\play-services-drive-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-drive:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\184dadfae14079e2d0bbd4e2316224e5\play-services-drive-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\fcf1b64d9f9350cea35afea66bf8863a\play-services-fitness-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-fitness:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\fcf1b64d9f9350cea35afea66bf8863a\play-services-fitness-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\61d8b6f837bbfe70d8e755c7376399e5\play-services-location-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-location:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\61d8b6f837bbfe70d8e755c7376399e5\play-services-location-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:26:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-nearby:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\239d5a70aee3a3faf52c3affa76e5c73\play-services-nearby-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\3b74959c4181f0648c2f98327879d888\play-services-panorama-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-panorama:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\3b74959c4181f0648c2f98327879d888\play-services-panorama-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f1ed149eb1f008d869243d32db18dc87\play-services-plus-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-plus:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f1ed149eb1f008d869243d32db18dc87\play-services-plus-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\eb7848062905e34af7d1a5bca764f0df\play-services-safetynet-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\eb7848062905e34af7d1a5bca764f0df\play-services-safetynet-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4381838dd5d4a9fd6ad5dd1285a3540e\play-services-vision-8.4.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\4381838dd5d4a9fd6ad5dd1285a3540e\play-services-vision-8.4.0\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\de1073b65ba9a39dd7108529ef0b9c49\play-services-wearable-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-wearable:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\de1073b65ba9a39dd7108529ef0b9c49\play-services-wearable-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e75c4c0a9a1cff6381768b91f7789989\play-services-base-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\e75c4c0a9a1cff6381768b91f7789989\play-services-base-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\f63427e5ccb27be1c1a70e2bfcb2f894\play-services-basement-8.4.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6eccab5fe3b58097b351d32a48bafc5e\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\6eccab5fe3b58097b351d32a48bafc5e\support-v4-23.1.1\AndroidManifest.xml:20:5-43
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		ADDED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+		INJECTED from D:\Downloads\Osama\KFFApp-ali (1)\KFSD\kfsd\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:26:9-29:64
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:28:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:29:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:27:13-65
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:30:9-31:52
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:31:13-50
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\7ba6dc2d50aff891d8461ddfca4e0c3c\play-services-ads-8.4.0\AndroidManifest.xml:30:19-91
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:21:9-29:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:23:17-40
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:24:17-63
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:22:17-48
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:25:13-28:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:26:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:26:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:27:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\59d6235d266221f30bb8023accf66d33\play-services-appinvite-8.4.0\AndroidManifest.xml:27:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:21:9-24:46
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:23:19-52
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:24:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:22:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:21:19-72
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:28:9-31:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:30:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:31:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\103c9a660f170abf9835ebaa23800f5d\play-services-auth-8.4.0\AndroidManifest.xml:29:13-62
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:21:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\9b2382c0cbe2bcf21867db69e8a681e2\play-services-gcm-8.4.0\AndroidManifest.xml:21:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:22:5-24:33
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:23:8-40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\5074d501c44285b3ec67ee93385065ed\play-services-maps-8.4.0\AndroidManifest.xml:24:8-31
+provider#com.google.android.gms.measurement.AppMeasurementContentProvider
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:28:7-31:37
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:29:11-76
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:31:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:30:11-90
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:33:7-39:18
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:35:11-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:34:11-83
+intent-filter#action:name:com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:36:9-38:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:37:11-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:37:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:41:7-44:37
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:43:11-33
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:44:11-35
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:8.4.0] C:\Users\NewHorizons\.gradle\caches\transforms-2\files-2.1\c3fc1ae9f39f7adf1a32b2914aadde1d\play-services-measurement-8.4.0\AndroidManifest.xml:42:11-82

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:id="@+id/mailTable"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="visible" >
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/dark_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/file_no_table" />
+
+            <TextView
+                android:id="@+id/fileNoText"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:textColor="@color/TV_Black"
+                android:text="1212121212" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/light_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:gravity="center_vertical"
+                android:textColor="@color/TV_Black"
+                android:text="@string/transaction_no" />
+
+            <TextView
+                android:id="@+id/transactionNo"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="1221213092103902" />
+        </TableRow>
+
+        <TableRow
+           android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/dark_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"                
+                android:gravity="center_vertical"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/transaction_type" />
+
+            <TextView
+                android:id="@+id/transactionType"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+           android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/light_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/procedure_type" />
+
+            <TextView
+                android:id="@+id/procedureType"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/dark_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"                
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/procedure_date" />
+
+            <TextView
+                android:id="@+id/procedureDate"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/light_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/organizational" />
+
+            <TextView
+                android:id="@+id/organizational"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="" />
+        </TableRow>
+
+        <TableRow
+        	android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight=".143"
+            android:background="@color/dark_blue" >
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:padding="2dp"
+                android:textStyle="bold"
+                android:textColor="@color/TV_Black"
+                android:text="@string/responsible" />
+
+            <TextView
+                android:id="@+id/responsible"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:layout_weight="1"
+                android:textColor="@color/TV_Black"
+                android:text="" />
+        </TableRow>
+    </TableLayout>
+
+</LinearLayout>

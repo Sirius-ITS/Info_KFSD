@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/Header_RL_Holder1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1" >
+
+        <LinearLayout
+            style="@style/W_m_H_w"
+            android:orientation="horizontal"
+            android:visibility="visible" >
+
+            <RelativeLayout style="@style/W_m_H_w" >
+
+                <TextView
+                    android:id="@+id/labelText"
+                    style="@style/W_w_H_w"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_margin="10dp"
+                    android:text="Label1" />
+
+                <TextView
+                    android:id="@+id/valueText"
+                    style="@style/W_w_H_w"
+                    android:layout_alignBaseline="@+id/labelText"
+                    android:layout_alignBottom="@+id/labelText"
+                    android:layout_centerVertical="true"
+                    android:layout_toRightOf="@+id/labelText"
+                    android:text="12345" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

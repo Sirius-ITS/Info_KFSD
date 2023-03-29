@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/W_m_H_m"
+    android:background="@drawable/main_background"
+    android:orientation="vertical" >
+
+    <ViewStub
+        android:id="@+id/vsHeader"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inflatedId="@+id/vsHeader"
+        android:layout="@layout/header_activity_group" />
+    
+    <RelativeLayout 
+        android:id="@+id/topRelative"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/vsHeader">
+        
+        <TextView
+            style="@style/labelStyle"
+         android:id="@+id/titleText"  
+         android:layout_alignParentLeft="true"
+         android:layout_margin="10dp" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="gjhjj"/>
+        
+        <TextView
+            style="@style/labelStyle"
+         android:id="@+id/dateText"  
+         android:layout_alignParentRight="true" 
+        android:layout_width="wrap_content"
+        android:text="gjhjj"
+        android:layout_margin="10dp" 
+        android:layout_height="wrap_content"/>
+        
+    </RelativeLayout>
+    <ImageView
+        android:id="@+id/IV_sep" 
+		android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:gravity="center"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:src="@drawable/seperate_line"
+        android:layout_below="@id/topRelative"/>
+    <TextView
+        style="@style/labelStyle"
+         android:id="@+id/titleName"  
+         android:layout_centerHorizontal="true" 
+        android:layout_width="wrap_content"
+        android:text="gjhjj"
+        android:layout_below="@id/IV_sep"
+        android:layout_margin="10dp" 
+        android:layout_height="wrap_content"/>
+    <ImageView
+        android:id="@+id/imageView" 
+        android:layout_width="match_parent"
+        android:layout_height="142dp"
+        android:gravity="center"
+        android:layout_margin="10dp"
+        android:src="@drawable/logo_login"
+        android:layout_below="@id/titleName"/>
+    
+    
+ <ScrollView
+        android:id="@+id/loading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_below="@id/imageView"
+       >
+    
+    
+    <TextView
+        android:id="@+id/webViewContent"
+        style="@style/W_m_H_w"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+         android:layout_marginRight="10dp"
+         android:layout_marginBottom="10dp"
+        android:paddingBottom="20dp"
+        android:textSize="16dp"
+
+        />
+     <!--android:layout_centerInParent="true"-->
+     <!--android:layout_below="@id/vsHeader"-->
+</ScrollView>
+    
+
+</RelativeLayout>

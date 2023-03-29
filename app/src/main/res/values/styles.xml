@@ -1,0 +1,79 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Application theme. -->
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar">
+    </style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+    </style>
+
+    <!-- Common -->
+    <style name="W_w_H_w">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="labelStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/txt_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/txt_clr</item>
+    </style>
+
+    <style name="titleStyle">
+
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/txt_clr</item>
+
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+
+    <style name="spinnerStyle">
+        <item name="android:layout_width">130dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:background">@color/ddl_bg</item>
+    </style>
+
+    <style name="W_f_H_f">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="W_m_H_m">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="W_w_H_f">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+
+    <style name="W_f_H_w">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="W_w_H_m">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+
+    <style name="W_m_H_w">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="AlertDialogStyle" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:textColor">@color/dark_blue</item>  // you can change the color of the yearPiker dialog
+        <item name="android:textColorPrimary">@color/txt_clr</item> // you can change the color of the yearPiker dialog
+    </style>
+
+
+   
+</resources>

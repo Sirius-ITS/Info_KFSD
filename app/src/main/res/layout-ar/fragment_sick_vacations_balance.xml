@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout
+        style="@style/W_m_H_m"
+        android:background="@drawable/main_background">
+
+        <ViewStub
+            android:id="@+id/vsHeader"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:inflatedId="@+id/vsHeader"
+            android:layout="@layout/header_activity_group" />
+
+        <LinearLayout
+            android:id="@+id/topLinear"
+            style="@style/W_m_H_w"
+            android:layout_below="@id/vsHeader"
+            android:layout_margin="20dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/W_m_H_w"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/titleText"
+                    style="@style/titleStyle"
+                    android:gravity="center"
+                    android:text="This is Title" />
+
+                <RelativeLayout style="@style/W_m_H_w">
+
+                    <RelativeLayout
+                        android:id="@+id/spinnerParentLayout"
+                        android:layout_width="80dp"
+                        android:layout_height="wrap_content"
+                        android:layout_toLeftOf="@id/textView1"
+                        android:layout_marginRight="32dp"
+                        android:layout_marginTop="32dp"
+                        android:layout_marginBottom="32dp"
+                        android:background="@color/ddl_bg"
+                        >
+
+
+                        <Spinner
+                            android:id="@+id/yearSpinner"
+                            style="@style/W_w_H_w"
+                            android:layout_alignParentRight="true"
+                            android:background="@null"
+                            android:gravity="center"
+                            android:padding="5dp"
+                            android:spinnerMode="dropdown" />
+
+                        <ImageView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerVertical="true"
+                            android:layout_alignParentLeft="true"
+                            android:src="@drawable/downarrow" />
+
+                    </RelativeLayout>
+
+
+                    <TextView
+                        android:id="@+id/textView1"
+                        style="@style/labelStyle"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:text="@string/year" />
+                </RelativeLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <ViewFlipper
+            android:id="@+id/mainFlipper"
+            style="@style/W_m_H_w"
+            android:layout_below="@id/topLinear"
+            android:layout_marginTop="10dp"
+            android:visibility="gone">
+
+
+        </ViewFlipper>
+
+        <ScrollView
+            style="@style/W_m_H_m"
+            android:layout_below="@id/mainFlipper">
+
+            <TableLayout
+                android:id="@+id/tableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:stretchColumns="1"
+                android:visibility="gone">
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/sickHealthCentersValue"
+                        android:layout_marginRight="40dp"
+                        android:layout_column="2" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_column="1"
+                        android:layout_marginRight="20dp"
+                        android:text="@string/sick_health_centers" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/sickHospitalsValue"
+                        android:layout_marginRight="40dp"
+                        android:layout_column="2" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/sick_hospitals"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp"
+                        android:layout_column="1" />
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/sickQuarantineValue"
+                        android:layout_marginRight="40dp"
+                        android:layout_column="2" />
+
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:text="@string/sick_quarantine"
+                        style="@style/labelStyle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp"
+                        android:layout_column="1" />
+
+                </TableRow>
+
+            </TableLayout>
+        </ScrollView>
+
+    </RelativeLayout>
+</layout>

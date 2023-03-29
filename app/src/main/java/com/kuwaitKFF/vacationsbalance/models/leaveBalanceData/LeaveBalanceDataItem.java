@@ -1,0 +1,127 @@
+package com.kuwaitKFF.vacationsbalance.models.leaveBalanceData;
+
+import com.google.gson.annotations.SerializedName;
+
+public class LeaveBalanceDataItem{
+
+	@SerializedName("LEAVE_COUNT")
+	private int lEAVECOUNT;
+
+	@SerializedName("BALANCE_LOCK_FLAG")
+	private int bALANCELOCKFLAG;
+
+	@SerializedName("LEAVE_REST_DURATION")
+	private int lEAVERESTDURATION;
+
+	@SerializedName("BALANCE_NEW_VALUE")
+	private int bALANCENEWVALUE;
+
+	@SerializedName("BALANCE_TRANSFER_VALUE")
+	private int bALANCETRANSFERVALUE;
+
+	@SerializedName("LEAVE_TOTAL_DURATION")
+	private int lEAVETOTALDURATION;
+
+	@SerializedName("VAC_EXCHANGE_VALUE")
+	private int vACEXCHANGEVALUE;
+
+	@SerializedName("BALANCE_PENALTY_VALUE")
+	private int bALANCEPENALTYVALUE;
+
+	@SerializedName("BALANCE_PENALTY_REST_VALUE")
+	private int bALANCEPENALTYRESTVALUE;
+
+	@SerializedName("LEAVE_ACTUAL_DURATION")
+	private int lEAVEACTUALDURATION;
+
+	@SerializedName("BALANCE_ADDED_VALUE")
+	private int bALANCEADDEDVALUE;
+
+	public void setLEAVECOUNT(int lEAVECOUNT){
+		this.lEAVECOUNT = lEAVECOUNT;
+	}
+
+	public int getLEAVECOUNT(){
+		return lEAVECOUNT;
+	}
+
+	public void setBALANCELOCKFLAG(int bALANCELOCKFLAG){
+		this.bALANCELOCKFLAG = bALANCELOCKFLAG;
+	}
+
+	public int getBALANCELOCKFLAG(){
+		return bALANCELOCKFLAG;
+	}
+
+	public void setLEAVERESTDURATION(int lEAVERESTDURATION){
+		this.lEAVERESTDURATION = lEAVERESTDURATION;
+	}
+
+	public int getLEAVERESTDURATION(){
+		return lEAVERESTDURATION;
+	}
+
+	public void setBALANCENEWVALUE(int bALANCENEWVALUE){
+		this.bALANCENEWVALUE = bALANCENEWVALUE;
+	}
+
+	public int getBALANCENEWVALUE(){
+		return bALANCENEWVALUE;
+	}
+
+	public void setBALANCETRANSFERVALUE(int bALANCETRANSFERVALUE){
+		this.bALANCETRANSFERVALUE = bALANCETRANSFERVALUE;
+	}
+
+	public int getBALANCETRANSFERVALUE(){
+		return bALANCETRANSFERVALUE;
+	}
+
+	public void setLEAVETOTALDURATION(int lEAVETOTALDURATION){
+		this.lEAVETOTALDURATION = lEAVETOTALDURATION;
+	}
+
+	public int getLEAVETOTALDURATION(){
+		return lEAVETOTALDURATION;
+	}
+
+	public void setVACEXCHANGEVALUE(int vACEXCHANGEVALUE){
+		this.vACEXCHANGEVALUE = vACEXCHANGEVALUE;
+	}
+
+	public int getVACEXCHANGEVALUE(){
+		return vACEXCHANGEVALUE;
+	}
+
+	public void setBALANCEPENALTYVALUE(int bALANCEPENALTYVALUE){
+		this.bALANCEPENALTYVALUE = bALANCEPENALTYVALUE;
+	}
+
+	public int getBALANCEPENALTYVALUE(){
+		return bALANCEPENALTYVALUE;
+	}
+
+	public void setBALANCEPENALTYRESTVALUE(int bALANCEPENALTYRESTVALUE){
+		this.bALANCEPENALTYRESTVALUE = bALANCEPENALTYRESTVALUE;
+	}
+
+	public int getBALANCEPENALTYRESTVALUE(){
+		return bALANCEPENALTYRESTVALUE;
+	}
+
+	public void setLEAVEACTUALDURATION(int lEAVEACTUALDURATION){
+		this.lEAVEACTUALDURATION = lEAVEACTUALDURATION;
+	}
+
+	public int getLEAVEACTUALDURATION(){
+		return lEAVEACTUALDURATION;
+	}
+
+	public void setBALANCEADDEDVALUE(int bALANCEADDEDVALUE){
+		this.bALANCEADDEDVALUE = bALANCEADDEDVALUE;
+	}
+
+	public int getBALANCEADDEDVALUE(){
+		return bALANCEADDEDVALUE;
+	}
+}

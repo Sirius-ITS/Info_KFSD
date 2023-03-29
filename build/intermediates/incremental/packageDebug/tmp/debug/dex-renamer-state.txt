@@ -1,0 +1,4 @@
+#Wed Nov 10 08:30:32 AST 2021
+base.0=D\:\\Downloads\\Osama\\KFFApp-ali (1)\\KFSD\\kfsd\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

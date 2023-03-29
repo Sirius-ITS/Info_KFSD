@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="query_type">Search Criteria</string>
+
+
+    <string name="incorrect_civil_id">Civil ID is not correct</string>
+    <string name="unavailable_civil_id">Civil ID is not available in KFF</string>
+    <string name="unavailable_file_no">File Number is not available in KFF</string>
+
+    <string name="app_name">KFF</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Ok">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="M_No_Internet">No internet</string>
+    <string name="M_App_Not_Present">App not present</string>
+    <string name="M_Loading">Loading...</string>
+    <string name="M_Unable_To_Fetch_Data">Unable to Fetch Data</string>
+    <string name="M_Enter_Perm_Date">Please Enter Permission Date</string>
+    <string name="M_Enter_Start_Date">Please Enter From Date</string>
+    <string name="M_Enter_Details">Please Enter details</string>
+    <string name="M_Enter_Valid_email">Please Enter a Valid Email</string>
+    <string name="M_Enter_End_Date">Please Enter To Date</string>
+    <string name="M_End_Date_Less">End Date must be greater than Start Date</string>
+    <string name="M_Enter_Old_Password">Please Enter Old Password</string>
+    <string name="M_Enter_New_Passord">Please Enter New Password</string>
+    <string name="M_Enter_Confirm_Password">Please Enter Confirm Password</string>
+    <string name="Password_Does_Not_Match">Confirm Password Does Not Match</string>
+    <string name="No_data_available">No data available</string>
+    <string name="M_Select_Employee_Id">Please Select Employee</string>
+    <string name="M_Invalid_User">Incorrect Username or Password</string>
+    <string name="M_Enter_12_Civil_Id">Please Enter 12 Digit Number</string>
+    <string name="M_Enter_Civil_Id">Please Enter Civil Id</string>
+    <string name="M_Enter_Transaction_No">Please Enter Transaction No</string>
+    <string name="M_Enter_File_No">Please Enter File No</string>
+    <string name="testing">testing!</string>
+    <string name="M_Please_Enter_correct">Please Enter correct number</string>
+    <string name="M_Please_Enter_correct_email">Please Enter Correct E-mail</string>
+    <string name="M_captcha_empty">Please Enter Verification Code</string>
+
+    <string name="civil_id_not_available">Civil ID Not Available</string>
+    <!-- -Headings -->
+
+    <string name="home">Home</string>
+    <string name="login">Login</string>
+    <string name="signInTxt">Sign In</string>
+    <string name="change_language">Change Language</string>
+    <string name="employee_profile">Employee Profile</string>
+    <string name="welcome">Welcome</string>
+    <string name="change_pass">Change Password</string>
+    <string name="clearance"> consulting offices and contractors</string>
+    <string name="sector">General services for auditors</string>
+    <string name="adoption_PAI">Adoption of PAI Transactions</string>
+    <string name="adoption_MOCI">Adoption of MOCI Transactions</string>
+    <string name="kuwait_fire_service_directorate">Kuwait Fire Force</string>
+
+    <!-- Hints for EditText -->
+
+    <string name="userName">UserName</string>
+    <string name="password">Password</string>
+    <string name="attachment"><u>Approvals</u></string>
+    <string name="start_date">Start Date</string>
+    <string name="end_date">End Date</string>
+    <string name="employee">Employee</string>
+    <string name="from_date">From Date</string>
+    <string name="new_password">New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_name">Name</string>
+    <string name="title_usename">UserName</string>
+    <string name="file_no">File No</string>
+    <string name="civil_id">Civil Id</string>
+    <string name="transaction_no">Tansaction No</string>
+    <string name="transaction_type">Tansaction Type</string>
+    <string name="procedure_type">Procedure Type</string>
+    <string name="procedure_date">Procedure Date</string>
+    <string name="organizational">Organization</string>
+    <string name="responsible">Responsible/Inspector</string>
+    <string name="file_no_table">File No</string>
+    <string name="civil_id_table">Civil Id</string>
+    <string name="centre">Centre</string>
+    <string name="district">District</string>
+    <string name="english">English</string>
+    <string name="arabic">العربية</string>
+    <string name="name">Name</string>
+    <string name="enter_numbers_in_picture">Enter numbers in the picture</string>
+    <string name="search">Search</string>
+    <string name="search_level">Search level</string>
+    <string name="search_date">Search Date</string>
+    <string name="notifications">Notifications</string>
+    <string name="infractions">Infractions</string>
+    <string name="link1">Required Approval</string>
+    <string name="link2">Remarks on Transaction</string>
+    <string name="submit">Submit</string>
+    <string name="show">Show</string>
+    <!-- Hints for EditText Ends -->
+
+
+    <!-- Menu Categories -->
+
+    <string name="attendance">Attendance</string>
+    <string name="month_report_enquiry">Inquiry about the monthly report</string>
+    <string name="month_balance_enquiry">Inquiry about the monthly balance</string>
+    <string name="vacations">Vacations Request Inquiry</string>
+    <string name="cancel_vacation_request">Cancel vacation Request</string>
+    <string name="cut_vacation_request">Break vacation request</string>
+    <string name="vacations_requests_approval">Vacations requests approval</string>
+    <string name="cancel_vacations_requests_approval">Cancel vacations requests approval</string>
+    <string name="break_vacations_requests_approval">Break vacations requests approval</string>
+    <string name="vacations_balance">Vacations Balance</string>
+    <string name="sick_leave_balance">Sick Leave Balance</string>
+    <string name="vacations_menu">Vacations</string>
+    <string name="permissions_menu">Permissions</string>
+    <string name="permission_menu">Permissions</string>
+    <string name="permissions">Permissions Request Inquiry</string>
+    <string name="permissions_approval">Permissions approval</string>
+    <string name="tasks">Official Tasks</string>
+    <string name="correspondence">Correspondence</string>
+    <string name="email">Email</string>
+    <string name="circular">Circular</string>
+    <string name="decisions">Decisions</string>
+    <string name="change_password">Change Password</string>
+    <string name="advertisement">Advertisement</string>
+    <string name="news">News</string>
+    <string name="news_detail">News Detail</string>
+    <string name="more">More</string>
+
+    <!-- Menu Categories Ends -->
+
+
+    <!-- Attendance Headers -->
+
+    <string name="date">Date</string>
+    <string name="day_shift">Day Shift</string>
+    <string name="night_shift">Night Shift</string>
+    <string name="in_time">Sign In</string>
+    <string name="out_time">Sign Out</string>
+    <string name="remark">REMARK</string>
+
+    <!-- Vacation Table Headers -->
+
+    <string name="submission_date">Submission Date</string>
+    <string name="vacation_type">Vacation Type</string>
+    <string name="vacation_status">Vacation status</string>
+    <string name="name_of_res">Name of Responsibility</string>
+    <string name="organizational_level">Organizational Unit</string>
+    <string name="status">Task Status</string>
+
+    <!-- Permission Table Headers -->
+
+    <string name="request_date">Request Date</string>
+    <string name="perm_duration">Request Duration</string>
+    <string name="permission_type">Reqested Permission</string>
+    <string name="permissionn_type">Permission Type</string>
+    <string name="leave_type">Leave Type</string>
+
+    <string name="permission_date">Permission Date</string>
+    <string name="permission_status">Permission Status</string>
+
+    <!-- Tasks Table Headers -->
+
+    <string name="reqested_permission">Permissions Request Inquiry</string>
+    <string name="permission_request">Request Permission</string>
+    <string name="leave_request">Request Leave</string>
+    <string name="requested_task">Official Tasks</string>
+    <string name="query_permission">Permission Inquiry</string>
+    <string name="query_leave">Leave Inquiry</string>
+    <string name="task1">Task Type</string>
+    <string name="task2">Task Reason</string>
+    <string name="from">From Date</string>
+    <string name="to_date">To Date</string>
+
+    <!-- Credits Sector Headers -->
+
+    <string name="serial_num">Task Date</string>
+    <string name="emp_name">Employee Name</string>
+    <string name="remark_date">Remark Date</string>
+
+    <!-- More Headers -->
+
+    <string name="contact_us">Contact Us</string>
+    <string name="map">Locations</string>
+    <string name="who_we_are">Who we are</string>
+    <string name="setting">Settings</string>
+    <string name="phone_mails">Phones and Emails</string>
+    <string name="suggestion">Suggestions / Complaints</string>
+    <string name="website">Website</string>
+    <string name="social_media">Social Media</string>
+    <string name="message_type">Message Type</string>
+    <string name="phone">Mobile Number</string>
+    <string name="subject">Subject</string>
+    <string name="body">Details</string>
+    <string name="send">Send</string>
+    <string name="salaryLeave">With Salary</string>
+    <string name="Terms_Conditions_Content">Lorem ipsum dolor sit er elit lamet , \nconsectetaur cillium adipisicing pecu, sed\ndo eiusmod tempor incididunt ut labore et
+                                                      dolore magna aliqua. Ut enim ad minim \nveniam, quis nostrud exercitation ullamco
+                                                      laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in\nreprehenderit in voluptate velit esse cillum
+                                                      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in\nculpa qui officia deserunt mollit anim id est
+                                                      laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+    <string name="title_activity_phone_email_fragment">PhoneEmailFragment</string>
+    <string name="_empty">" "</string>
+    <!--<string name="_kfsd">/KFSD</string>-->
+    <!--<string name="kfsd">\@KFSD</string>-->
+    <string name="twitter_kfsd">official_kff </string>
+    <string name="youtube_kfsd">kffchannel</string>
+
+    <!-- Contact us -->
+    <string name="M_contact_name">Please Enter Name</string>
+    <string name="M_contact_phone">Please Enter Phone</string>
+    <string name="M_contact_email">Please Enter Email</string>
+    <string name="M_contact_sub">Please Enter Subject</string>
+    <string name="M_contact_comment">Please Enter Comment</string>
+    <string name="title_activity_circular_snapshot">CircularSnapshotActivity</string>
+
+    <!-- Correspondence details -->
+
+    <string name="entity_from_ar">From </string>
+    <string name="entity_to_ar">To</string>
+    <string name="corres_no">No </string>
+    <string name="corres_date">Date</string>
+    <string name="corres_sub">SUBJECT</string>
+    <string name="corres_body">BODY </string>
+    <string name="snap_entity_name">Task From </string>
+    <string name="SNAPSHOT_ACTION_DESC_AR">Task Type</string>
+    <string name="SNAPSHOT_ACTION_NOTE">Task Date</string>
+    <string name="SNAPSHOT_DATE">Status</string>
+    <string name="TABLE_NAME">Tasks</string>
+    <!--<string name="table">Tasks</string>-->
+    <string name="procedures">procedures</string>
+    <string name="Documents">Documents</string>
+    <string name="related_msges">Related messages</string>
+    <string name="title_activity_document">DocumentActivity</string>
+    <string name="title_activity_related_msg">RelatedMsgActivity</string>
+    <string name="title_activity_procedure">ProcedureActivity</string>
+    <string name="procedure_to">Task To</string>
+    <string name="type">Task Type</string>
+    <string name="officialkfsd">officialkff</string>
+    <!--<string name="enter_number_in_the_picture_edittext_android_id_">Enter the code in the picture />-->
+<!--\n-->
+<!--\n            &lt;EditText-->
+<!--\n                android:id=</string>-->
+    <string name="enter_number_in_the_picture">Enter Number in the picture</string>
+    
+    <string name="cumulative">Cumulative</string>
+    <string name="Annual">Annual</string>
+    <string name="frozen_balance">Frozen Balance</string>
+    <string name="former_excluded">Former Excluded</string>
+    <string name="currently_excluded">Currently Excluded</string>
+    <string name="number_of_vacations">Number Of Vacations</string>
+    <string name="total_duration">Total Duration</string>
+    <string name="actual_duration">Actual Duaration</string>
+    <string name="cash_redemption">Cash Redemption</string>
+    <string name="residual">Residual</string>
+    <string name="choose">Choose</string>
+    <string name="vacation_type_validation">Please choose vacation type</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="sick_health_centers">Sick (health centers)</string>
+    <string name="sick_hospitals">Sick (hospital)</string>
+    <string name="sick_quarantine">Sick (Quarantine)</string>
+    <string name="year_validation">Please choose year</string>
+    <string name="month_validation">Please choose month</string>
+    <string name="number_of_abscent_days">Number of abscent days</string>
+    <string name="absent_days">Absent days</string>
+    <string name="not_signing_attendance">Non-signing attendance</string>
+    <string name="not_signing_leave">Non-signing leave</string>
+    <string name="other_vacations">Other vacations</string>
+    <string name="costs">Costs</string>
+    <string name="delay">Late</string>
+    <string name="delay_deduction">Late deduction</string>
+    <string name="abscent_deduction">Absent deduction</string>
+    <string name="sick_health_centers_vacation">Sick leave(Health centers)</string>
+    <string name="phone_empty_validation">Please enter phone number</string>
+    <string name="wrong_phone_validation">Phone number must be 8 numbers</string>
+    <string name="approve">Approve</string>
+    <string name="reject">Reject</string>
+    <string name="direct_affiliate_units">Direct affiliated units</string>
+    <string name="all_affiliate_units">All affiliated units</string>
+
+</resources>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="wrap_content"
+	android:orientation="vertical" >
+
+	<RelativeLayout style="@style/W_m_H_w">
+
+		<TextView
+			android:id="@+id/empNameText"
+			style="@style/W_w_H_w"
+			android:layout_centerInParent="true"
+			android:layout_marginRight="40dp"
+
+			android:layout_marginTop="10dp"
+			android:layout_toLeftOf="@id/textView1"
+			android:background="@drawable/field"
+			android:gravity="center" />
+
+
+		<TextView
+			android:id="@+id/textView1"
+			style="@style/labelStyle"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			android:text="@string/emp_name" />
+	</RelativeLayout>
+
+	<RelativeLayout style="@style/W_m_H_w" >
+
+		<TextView
+			android:id="@+id/fromDate"
+			style="@style/labelStyle"
+			android:layout_alignParentRight="true"
+			android:layout_centerInParent="true"
+			android:text="@string/vacation_type" />
+
+		<TextView
+			android:id="@+id/vacationTypeText"
+			style="@style/W_w_H_w"
+			android:layout_centerInParent="true"
+			android:layout_marginTop="10dp"
+			android:layout_marginRight="49dp"
+			android:layout_toLeftOf="@id/fromDate"
+			android:background="@drawable/field"
+			android:gravity="center" />
+	</RelativeLayout>
+
+	<RelativeLayout style="@style/W_m_H_w" >
+
+		<TextView
+			android:id="@+id/textViewDate"
+			style="@style/labelStyle"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			android:text="@string/from_date" />
+
+		<TextView
+			android:id="@+id/startDateText"
+			style="@style/W_w_H_w"
+			android:layout_centerInParent="true"
+			android:layout_marginTop="10dp"
+			android:layout_marginRight="66dp"
+			android:layout_toLeftOf="@id/textViewDate"
+			android:background="@drawable/field"
+			android:gravity="center"
+			android:padding="5dp" />
+	</RelativeLayout>
+
+	<RelativeLayout style="@style/W_m_H_w" >
+
+		<TextView
+			android:id="@+id/textViewPhone"
+			style="@style/labelStyle"
+			android:layout_alignParentRight="true"
+			android:layout_centerVertical="true"
+			android:text="@string/to_date" />
+
+		<TextView
+			android:id="@+id/toDateText"
+			style="@style/W_w_H_w"
+			android:layout_centerInParent="true"
+			android:layout_marginTop="10dp"
+			android:layout_marginRight="65dp"
+			android:layout_toLeftOf="@id/textViewPhone"
+			android:background="@drawable/field"
+			android:gravity="center"
+			android:padding="5dp" />
+
+	</RelativeLayout>
+
+	<RelativeLayout style="@style/W_m_H_w"
+		android:layout_marginTop="10dp">
+
+		<androidx.appcompat.widget.LinearLayoutCompat
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_centerInParent="true">
+
+
+			<Button
+				android:id="@+id/declineButton"
+				style="@style/W_w_H_w"
+				android:layout_width="100dp"
+				android:layout_marginTop="10dp"
+				android:background="@drawable/btn_common"
+				android:text="@string/reject"
+				android:textColor="#ffffff" />
+
+			<Button
+				android:id="@+id/approveButton"
+				style="@style/W_w_H_w"
+				android:layout_width="100dp"
+				android:layout_marginTop="10dp"
+				android:layout_marginLeft="30dp"
+				android:layout_toRightOf="@id/declineButton"
+				android:background="@drawable/btn_common"
+				android:text="@string/approve"
+				android:textColor="#ffffff" />
+
+		</androidx.appcompat.widget.LinearLayoutCompat>
+
+	</RelativeLayout>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

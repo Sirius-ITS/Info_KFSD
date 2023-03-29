@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:weightSum="1" >
+
+        <TextView
+            android:id="@+id/lblListHeader"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="0.8"
+            android:textColor="#ffffff"
+            android:text="Toasty Warm Premium "
+            />
+
+        <ImageView
+            android:id="@+id/arrowBtn1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:src="@drawable/downarrow" />
+    </LinearLayout>
+
+    <!--
+    <RelativeLayout  android:layout_width="fill_parent"
+                     android:layout_height="wrap_content">
+
+    <ImageView
+         android:id="@+id/arrowBtn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="14dp"
+        android:src="@drawable/arrow" />
+    
+  
+
+    <TextView
+        android:id="@+id/lblListHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:text="hfsjdkafhsj"
+        android:textSize="17dp" /> 
+   
+    </RelativeLayout>
+    -->
+
+</LinearLayout>

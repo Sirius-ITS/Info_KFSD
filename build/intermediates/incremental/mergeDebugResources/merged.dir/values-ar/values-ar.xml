@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="Cancel">Cancel</string>
+    <string name="Documents"><u>المرفقات</u></string>
+    <string name="M_App_Not_Present">App not present</string>
+    <string name="M_End_Date_Less">يجب أن يكون تاريخ الانتهاء أكبر من تاريخ بدء</string>
+    <string name="M_Enter_12_Civil_Id">الرجاء إدخال رقم 12 رقما</string>
+    <string name="M_Enter_Civil_Id">الرجاء ادخال الرقم المدني</string>
+    <string name="M_Enter_Confirm_Password">الرجاء ادخال تأكيد كلمه السر الجديدة</string>
+    <string name="M_Enter_Details">الرجاء إدخال التفاصيل</string>
+    <string name="M_Enter_End_Date">الرجاء ادخال التاريخ الى</string>
+    <string name="M_Enter_File_No">الرجاء ادخال رقم الملف</string>
+    <string name="M_Enter_New_Passord">الرجاء ادخال كلمة السر الجديدة</string>
+    <string name="M_Enter_Old_Password">الرجاء ادخال كلمة السر الحالية</string>
+    <string name="M_Enter_Perm_Date">الرجاء ادخال تاريخ الإذن</string>
+    <string name="M_Enter_Start_Date">الرجاء ادخال التاريخ من</string>
+    <string name="M_Enter_Transaction_No">الرجاء إدخال رقم المعاملة</string>
+    <string name="M_Enter_Valid_email">الرجاء إدخال بريد الكتروني صحيح</string>
+    <string name="M_Invalid_User">اسم المستخدم أو كلمة السر غير صحيحة</string>
+    <string name="M_Loading">...جاري التحميل</string>
+    <string name="M_No_Internet">حدث خطأ في الشبكة الرجاء التأكد من وجود اتصال بشبكة الانترنت</string>
+    <string name="M_Please_Enter_correct">رمز التأكيد غير صحيح</string>
+    <string name="M_Please_Enter_correct_email">من فضلك أدخل بريد إلكتروني صحيح</string>
+    <string name="M_Select_Employee_Id">الرجاء اختيار موظف</string>
+    <string name="M_Unable_To_Fetch_Data">تعذر إحضار البيانات</string>
+    <string name="M_captcha_empty">الرجاء إدخال رمز التأكيد</string>
+    <string name="M_contact_comment">الرجاء إدخال التعليق</string>
+    <string name="M_contact_email">الرجاء إدخال البريد الإلكتروني</string>
+    <string name="M_contact_name"> الرجاء إدخال اسم</string>
+    <string name="M_contact_phone">الرجاء إدخال الهاتف</string>
+    <string name="M_contact_sub">من فضلك ادخل موضوع</string>
+    <string name="No_data_available">لا توجد بيانات</string>
+    <string name="Ok">OK</string>
+    <string name="Password_Does_Not_Match">كلمة السر الجديدة لا تتطابق مع التاكيد</string>
+    <string name="SNAPSHOT_ACTION_DESC_AR">نوع المهمة</string>
+    <string name="SNAPSHOT_ACTION_NOTE">نص المهمة</string>
+    <string name="SNAPSHOT_DATE">تاريخ المهمة</string>
+    <string name="TABLE_NAME">المهام</string>
+    <string name="Terms_Conditions_Content">Lorem ipsum dolor sit er elit lamet , \nconsectetaur cillium adipisicing pecu, sed\ndo eiusmod tempor incididunt ut labore et
+                                                      dolore magna aliqua. Ut enim ad minim \nveniam, quis nostrud exercitation ullamco
+                                                      laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in\nreprehenderit in voluptate velit esse cillum
+                                                      dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in\nculpa qui officia deserunt mollit anim id est
+                                                      laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+    <string name="_empty">" "</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="action_settings">Settings</string>
+    <string name="adoption_MOCI">اعتماد معاملات وزارة التجارة والصناعة</string>
+    <string name="adoption_PAI">اعتماد معاملات الهيئة العامة للصناعة</string>
+    <string name="advertisement">الإعلانات</string>
+    <string name="app_name">KFF</string>
+    <string name="arabic">العربية</string>
+    <string name="attachment"><u> الموافقات</u></string>
+    <string name="attendance">الاستعلام عن الحضور والانصراف</string>
+    <string name="body">التفاصيل</string>
+    <string name="centre">مركز / مقر</string>
+    <string name="change_language">اختيار اللغة</string>
+    <string name="change_pass">تغيير كلمة السر</string>
+    <string name="change_password">تغيير كلمة السر</string>
+    <string name="circular">التعاميم</string>
+    <string name="civil_id">الرقم المدنى</string>
+    <string name="civil_id_not_available">الرقم المدني غير متوفر</string>
+    <string name="civil_id_table">الرقم المدنى</string>
+    <string name="clearance">خدمات المكاتب الاستشارية و المقاولين</string>
+    <string msgid="2785372108150982144" name="common_google_play_services_api_unavailable_text">"‏يتطلب <ns1:g id="APP_NAME">%1$s</ns1:g> خدمة أو أكثر من خدمات Google Play والتي لا تتوفر حاليًا. يُرجى الاتصال بمطوّر البرامج للحصول على المساعدة."</string>
+    <string msgid="7334167077229901382" name="common_google_play_services_enable_button">"‏تمكين خدمات Google Play"</string>
+    <string msgid="2016066508617425489" name="common_google_play_services_enable_text">"‏لن يعمل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تمكين خدمات Google Play."</string>
+    <string msgid="4763733806837472840" name="common_google_play_services_enable_title">"‏تمكين خدمات Google Play"</string>
+    <string msgid="5765996826213593005" name="common_google_play_services_install_button">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="1545874412485515659" name="common_google_play_services_install_text_phone">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على هاتفك."</string>
+    <string msgid="2742131317258851812" name="common_google_play_services_install_text_tablet">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي لا تتوفر على جهازك اللوحي."</string>
+    <string msgid="2110712637922504348" name="common_google_play_services_install_title">"‏الحصول على خدمات Google Play"</string>
+    <string msgid="8004809446015217370" name="common_google_play_services_invalid_account_text">"الحساب الذي تم تحديده غير موجود على الجهاز. الرجاء اختيار حساب آخر."</string>
+    <string msgid="9894539456463288" name="common_google_play_services_invalid_account_title">"حساب غير صالح"</string>
+    <string msgid="2602915190038884860" name="common_google_play_services_network_error_text">"‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات."</string>
+    <string msgid="5183831421651758225" name="common_google_play_services_network_error_title">"حدث خطأ في الشبكة"</string>
+    <string msgid="3936796119014022295" name="common_google_play_services_notification_ticker">"‏حدث خطأ في خدمات Google Play"</string>
+    <string msgid="6951442375899151085" name="common_google_play_services_restricted_profile_text">"لا تتوفر إمكانية الوصول إلى الحسابات من ملف شخصي مقيَّد."</string>
+    <string msgid="4958149393843193760" name="common_google_play_services_restricted_profile_title">"ملف شخصي مقيَّد"</string>
+    <string msgid="59739986196915578" name="common_google_play_services_sign_in_failed_text">"حدث خطأ أثناء تسجيل الدخول إلى الحساب المحدد. الرجاء اختيار حساب مختلف."</string>
+    <string msgid="8431204498860131150" name="common_google_play_services_sign_in_failed_title">"أخفق تسجيل الدخول"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"‏تواجه <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. إذا ظلت المشكلة قائمة، فيُرجى الاتصال بمطوِّر البرامج للحصول على مساعدة."</string>
+    <string msgid="4291190028362992831" name="common_google_play_services_unsupported_text">"‏يعتمد <ns1:g id="APP_NAME">%1$s</ns1:g> على خدمات Google Play والتي لا تتوافق مع جهازك. يمكنك الاتصال بجهة التصنيع للحصول على مساعدة."</string>
+    <string msgid="909734065366822541" name="common_google_play_services_unsupported_title">"‏خدمات Google Play"</string>
+    <string msgid="2221302284291941971" name="common_google_play_services_update_button">"تحديث"</string>
+    <string msgid="6230553430311881723" name="common_google_play_services_update_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> ما لم يتم تحديث خدمات Google Play."</string>
+    <string msgid="2926201203597631481" name="common_google_play_services_update_title">"‏تحديث خدمات Google Play"</string>
+    <string msgid="1576144479907495032" name="common_google_play_services_updating_text">"‏لن يتم تشغيل <ns1:g id="APP_NAME">%1$s</ns1:g> بدون خدمات Google Play، والتي يتم تحديثها حاليًا."</string>
+    <string msgid="1604540693139938838" name="common_google_play_services_updating_title">"‏يتم الآن تحديث خدمات Google Play."</string>
+    <string msgid="8334920661858223093" name="common_google_play_services_wear_update_text">"‏يجب توفر إصدار جديد من خدمات Google Play. سيتم تحديثها تلقائيًا قريبًا."</string>
+    <string msgid="311697239335516384" name="common_open_on_phone">"فتح على الهاتف"</string>
+    <string msgid="3156914698180786012" name="common_signin_button_text">"تسجل الدخول"</string>
+    <string msgid="1483290677806110088" name="common_signin_button_text_long">"‏تسجيل الدخول عبر Google"</string>
+    <string name="confirm_password">تأكيد كلمة السر الجديدة</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="corres_body">نص الرسالة</string>
+    <string name="corres_date">تاريخ الرسالة</string>
+    <string name="corres_no">رقم الرسالة</string>
+    <string name="corres_sub">موضوع الرسالة</string>
+    <string name="correspondence">صندوق المراسلات</string>
+    <string name="date">التاريخ</string>
+    <string name="day_shift">الفترة الاولى</string>
+    <string name="decisions">القرارات</string>
+    <string name="district">المحافظة</string>
+    <string name="email">البريد الإلكترونى</string>
+    <string name="emp_name">اسم الموظف</string>
+    <string name="employee">للموظف</string>
+    <string name="employee_profile">ملف الموظف</string>
+    <string name="end_date">تاريخ النهايه</string>
+    <string name="english">English</string>
+    <string name="enter_number_in_the_picture">الرجاء ادخال الرمز الذي بالصوره</string>
+    <string name="enter_numbers_in_picture">الرجاء ادخال الارقام التى بالصوره</string>
+    <string name="entity_from_ar">رسالة من</string>
+    <string name="entity_to_ar">رسالة إلي</string>
+    <string name="file_no">رقم الملف</string>
+    <string name="file_no_table">رقم الملف</string>
+    <string name="from">من تاريخ</string>
+    <string name="from_date">من تاريخ</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home">Home</string>
+    <string name="in_time">حضور</string>
+    <string name="incorrect_civil_id">الرقم المدنى غير صحيح</string>
+    <string name="infractions">عدد المخالفات</string>
+    <string name="kuwait_fire_service_directorate">قوة الأطفاء العام</string>
+    <string name="leave_request">تسجيل طلب أجازة</string>
+    <string name="leave_type">نوع الأجازة</string>
+    <string name="link1">الاعتمادات المطلوبة لدراسة المعاملة</string>
+    <string name="link2"> ملاحظات دراسة المعاملة</string>
+    <string name="login">الـدخـــول</string>
+    <string name="map">مواقعنا</string>
+    <string name="message_type">نوع الرسالة</string>
+    <string name="more">المزيد</string>
+    <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"إرسال"</string>
+    <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"جارٍ البحث عن الأجهزة…"</string>
+    <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"الاتصال بجهاز"</string>
+    <string msgid="109793632378378069" name="mr_media_route_controller_disconnect">"قطع الاتصال"</string>
+    <string msgid="3641544772007543920" name="mr_media_route_controller_no_info_available">"لا تتوفر أية معلومات"</string>
+    <string msgid="8315773974194466049" name="mr_media_route_controller_pause">"إيقاف مؤقت"</string>
+    <string msgid="5214423499524760404" name="mr_media_route_controller_play">"تشغيل"</string>
+    <string msgid="379358765881274425" name="mr_media_route_controller_settings_description">"إعدادات المسار"</string>
+    <string msgid="5398645111664294430" name="mr_media_route_controller_stop">"إيقاف الإرسال"</string>
+    <string msgid="5441529851481176817" name="mr_system_route_name">"النظام"</string>
+    <string msgid="7498112907524977311" name="mr_user_route_category_name">"الأجهزة"</string>
+    <string name="name">الاسم</string>
+    <string name="name_of_res">المسؤول</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="news">الأخبار</string>
+    <string name="news_detail">تفاصيل الأخبار</string>
+    <string name="night_shift">الفترة الثانية</string>
+    <string name="notifications">عدد التنبيهات</string>
+    <string name="officialkfsd">officialkfsd</string>
+    <string name="old_password">كلمة السر الحالية</string>
+    <string name="organizational">الوحدة التنظيمية</string>
+    <string name="organizational_level">الوحدة التنظيمية</string>
+    <string name="out_time">انصراف</string>
+    <string name="password">كلمة السـر</string>
+    <string name="perm_duration">المدة</string>
+    <string name="permission_date">تاريخ الإذن</string>
+    <string name="permission_menu">بيانات الإذونات</string>
+    <string name="permission_request">تسجيل طلب إذن</string>
+    <string name="permission_status">حالة الإذن</string>
+    <string name="permission_type">الاستعلام عن طلبات الاذونات</string>
+    <string name="permissionn_type">نوع الإذن</string>
+    <string name="permissions">الاستعلام عن طلبات الاذونات</string>
+    <string name="permissions_menu">بيانات الإذونات</string>
+    <string name="phone">رقم النقال</string>
+    <string name="phone_mails">هواتف القياديين والبريد الإلكترونى</string>
+    <string msgid="2132213647576279742" name="place_autocomplete_clear_button">"مسح البحث"</string>
+    <string msgid="4600782048316473865" name="place_autocomplete_search_hint">"البحث"</string>
+    <string name="procedure_date">تاريخ الاجراء</string>
+    <string name="procedure_to">المهمة إلى</string>
+    <string name="procedure_type">نوع الاجراء</string>
+    <string name="procedures"><u>الإجراءات</u></string>
+    <string name="query_leave">الاستعلام عن الأجازات</string>
+    <string name="query_permission">الاستعلام عن الأذونات</string>
+    <string name="query_type">محددالاستعلام</string>
+    <string name="related_msges"><u>الرسائل المرتبطة</u></string>
+    <string name="remark">ملاحظات</string>
+    <string name="remark_date">ملاحظة التسجيل</string>
+    <string name="reqested_permission">الاستعلام عن طلبات الأذونات</string>
+    <string name="request_date">تاريخ الطلب</string>
+    <string name="requested_task">الاستعلام عن التكليفات</string>
+    <string name="responsible">القائم بالدراسة/المفتش</string>
+    <string name="salaryLeave">أجازة براتب</string>
+    <string name="search">بحــــث</string>
+    <string name="search_date">تاريخ البحث</string>
+    <string name="sector">خدمات عامة للمراجعين</string>
+    <string name="send">ارسال</string>
+    <string name="serial_num">تاريخ المهمة</string>
+    <string name="setting">الاعدادات</string>
+    <string name="show">عرض</string>
+    <string name="signInTxt">الـدخـــول</string>
+    <string name="snap_entity_name">المهمة من</string>
+    <string name="social_media">وسائل التواصل الاجتماعي</string>
+    <string name="start_date">تاريخ البداية</string>
+    <string name="status">حالة المهمة</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="subject">الموضوع</string>
+    <string name="submission_date">تاريخ التقديم</string>
+    <string name="submit">ارسال</string>
+    <string name="suggestion">اقتراحات وشكاوي</string>
+    <string name="task1">نوع التكليف</string>
+    <string name="task2">سبب التكليف</string>
+    <string name="tasks">الاستعلام عن التكليفات</string>
+    <string name="testing">تسجيل</string>
+    <string name="title_activity_circular_snapshot">CircularSnapshotActivity</string>
+    <string name="title_activity_document">DocumentActivity</string>
+    <string name="title_activity_phone_email_fragment">PhoneEmailFragment</string>
+    <string name="title_activity_procedure">ProcedureActivity</string>
+    <string name="title_activity_related_msg">RelatedMsgActivity</string>
+    <string name="title_name">الاسم</string>
+    <string name="title_usename">اسم المستخدم</string>
+    <string name="to_date">الى تاريخ</string>
+    <string name="transaction_no">رقم المعاملة</string>
+    <string name="transaction_type">نوع المعاملة</string>
+    <string name="twitter_kfsd">official_kfsd </string>
+    <string name="type">نوع المهمة</string>
+    <string name="unavailable_civil_id">الرقم المدنى غير مسجل</string>
+    <string name="unavailable_file_no">رقم الملف غير مسجل</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="vacation_status">حالة الاجازة</string>
+    <string name="vacation_type">نوع الاجازة</string>
+    <string name="vacations">الاستعلام عن طلبات الأجازات</string>
+    <string name="vacations_menu">بيانات الأجازات</string>
+    <string msgid="4184147110658930238" name="wallet_buy_button_place_holder">"الشراء عبر Google"</string>
+    <string name="website">البوابة الإلكترونية</string>
+    <string name="welcome">مرحبا</string>
+    <string name="who_we_are">من نحن</string>
+    <string name="youtube_kfsd">kfsdchannel</string>
+    <style name="ActionBar.Solid.Ribbit.TitleTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">#976325</item>
+        <item name="background">#976325</item>
+    </style>
+    <style name="AppBaseTheme" parent="@android:style/Theme.Light.NoTitleBar"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+
+    </style>
+    <style name="W_f_H_f">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="W_f_H_w">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="W_m_H_m">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="colorPrimary">#995544</item>
+    </style>
+    <style name="W_m_H_w">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="W_w_H_f">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="W_w_H_m">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="W_w_H_w">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+</resources>

@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "com.KuwaitKFF",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 14,
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.KuwaitKFF",
+        "split": "",
+        "minSdkVersion": "18"
+      }
+    }
+  ]
+}
